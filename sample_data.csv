@@ -1,0 +1,1001 @@
+note_id,person_id,age,gender_source_value,BMI,admission_department,division,ward,asa_class,surgeon_id,surgical_department,op_code,final_op_name,anesthesia_type,condition_source_value,surgery_room,previous_surgery,emergency_status,op_timing,day_of_the_week,week_of_the_month,month,surgeon_estimated_op_time,surgery_duration
+101058,29,81,F,25.24708694,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( left / with sentinel lymph node biopsy ) ,general,D00002196,203,N,N,TF2,Thursday,4,October,130,66
+57801,64,60,F,24.37624891,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00003988,Laryngomicrosurgery (LMS) with laser ( bilateral ) ,general,D00003798,504,N,N,8A,Friday,2,January,300,130
+71288,64,60,F,24.37624891,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00003988,Laryngomicrosurgery (LMS) with laser,general,D00003798,504,Y,N,TF4,Monday,4,April,100,85
+135104,64,60,F,24.37624891,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00003988,Laryngomicrosurgery (LMS),general,D00003798,504,Y,N,TF2,Monday,3,August,100,83
+221210,71,94,M,27.96313971,Orthopedics,Admission,41,2,29473,Orthopedics,P00007807,Vertebroplasty,local,D00018711,108,N,N,TF4,Monday,5,March,100,63
+73929,82,77,M,24.2722146,General Surgery,Admission,45,3,28655,General Surgery,P00006344,Repair of inguinal hernia ( left / open / direct ) ,general,D00011590,103,N,N,MD,Monday,2,April,30,70
+81671,82,77,M,24.2722146,General Surgery,Admission,52,2,28647,General Surgery,P00003396,Incision and drainage of septal hematoma or abscess,local,D00019823,106,Y,N,TF8,Monday,1,June,30,50
+155935,83,88,M,28.63957332,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Thursday,2,March,100,51
+155936,83,88,M,28.63957332,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF4,Thursday,4,March,100,26
+164074,86,83,M,20.5874918,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008901,502,N,N,8A,Monday,3,May,100,45
+164076,86,83,M,20.5874918,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008901,502,Y,N,8A,Monday,4,May,100,29
+180250,108,79,F,23.53306117,Obstetrics & Gynecology,Admission,56,2,13270,Obstetrics & Gynecology,P00001645,En bloc resectionTotal hysterectomy ( laparotomy ) Bilateral pelvic lymphadenectomyParaaortic lymph node dissection ( open / partial ) Excision of duodenal massSuture of duodenal lacerationOmentectomy ( laparotomy ) Splenectomy  ( total / open ) Low anterior resection ( open / without lymph node dissection ) Diaphragmatic resection ( bilateral ) Excision of bladder massExcision of omental tumor or cyst ( open / convention ) ,general,D00002404,102,Y,N,TF3,Friday,4,May,800,300
+212960,122,88,F,22.67462677,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008796,501,N,N,TF5,Thursday,1,March,100,36
+212962,122,88,F,22.67462677,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008796,501,Y,N,TF2,Thursday,2,March,100,32
+284809,127,85,M,21.57031186,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008879,502,N,N,TF7,Tuesday,2,August,100,63
+284810,127,85,M,21.57031186,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008879,502,Y,N,TF6,Tuesday,3,August,100,74
+122750,171,83,M,23.0905671,Urology,Admission,72,2,6087,Urology,P00000681,Biopsy of prostate ( perineal ) ,general,D00018122,104,N,N,TF2,Monday,2,April,30,61
+126719,171,83,M,23.0905671,Urology,Admission,84,2,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,Y,N,8A,Tuesday,4,May,300,166
+112760,172,84,F,18.97453196,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,local,D00008676,502,N,N,8A,Monday,2,March,100,32
+112761,172,84,F,18.97453196,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,local,D00008676,502,Y,N,8A,Monday,3,March,100,36
+145295,204,92,F,25.83050695,Orthopedics,Admission,42,2,29158,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012919,106,N,N,8A,Tuesday,1,September,230,152
+147527,205,83,M,23.86175688,Orthopedics,Admission,44,2,29478,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion),general,D00013247,110,N,N,8A,Tuesday,4,September,300,261
+217933,246,60,M,26.38606729,Plastic Surgery,Outpatient,,2,12472,Plastic Surgery,P00007919,Blepharoplasty ( BLL ) ,local,D00008284,OPTO2,N,N,etc,Tuesday,2,March,230,176
+72850,265,57,M,24.63493713,Internal Medicine,Admission,85,2,6216,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014097,GSOOR,N,N,etc,Thursday,3,April,100,100
+158026,265,57,M,24.63493713,General Surgery,Admission,64,3,29079,General Surgery,P00003920,Open cholecystectomy,general,D00011948,105,Y,N,TF3,Tuesday,2,December,100,74
+159743,265,57,M,24.63493713,Internal Medicine,Admission,85,2,43551,General Surgery,P00006664,"Thrombectomy, arteriovenous fistula",local,D00014098,OPTO1,Y,N,etc,Tuesday,4,December,200,143
+161890,265,57,M,24.63493713,General Surgery,Admission,,2,43551,General Surgery,P00006169,Removal of permanent catheter,local,D00014098,OPTO1,N,Y,etc,Monday,2,January,30,60
+281101,322,55,M,24.95488924,Orthopedics,Admission,44,2,108705,Orthopedics,P00005976,"Operation for thoracic outlet syndromeRelease of cubital tunnel ( right ) Corrective osteotomy, clavicle ( right ) ",general,D00007836,108,N,N,TF2,Monday,3,May,230,225
+132079,368,81,M,29.04615385,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Wednesday,1,April,100,34
+284439,379,58,M,26.77751656,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF10,Thursday,5,June,100,70
+97845,401,79,F,27.75431944,General Surgery,Admission,65,2,28649,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011977,107,N,N,TF3,Friday,4,September,100,105
+112285,415,69,M,23.15779349,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00000091,,local,D00008929,502,N,N,TF7,Friday,3,January,130,100
+203718,415,69,M,23.15779349,General Surgery,Admission,NUGW2,2,29464,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011998,110,N,N,TF3,Tuesday,4,November,100,100
+139431,420,76,F,25.95814204,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Wednesday,2,October,100,33
+139433,420,76,F,25.95814204,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008336,502,Y,N,TF3,Wednesday,3,October,100,30
+60027,454,80,F,23.8175659,Ophthalmology,Day,81,3,27962,Ophthalmology,P00005407,,MAC,D00006001,502,N,N,TF1,Wednesday,4,May,100,43
+60028,454,80,F,23.8175659,Ophthalmology,Day,81,3,27962,Ophthalmology,P00005407,,MAC,D00006001,502,Y,N,TF2,Tuesday,1,June,101,37
+96343,465,76,F,25.65252681,Neurosurgery,Admission,55,2,30952,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010129,ANGIO,N,N,TF1,Tuesday,3,September,300,136
+115841,490,85,F,25.21735858,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002172,Endoscopic sinus surgery ( bilateral ) ,general,D00017441,503,N,N,8A,Wednesday,2,March,100,78
+139102,499,86,F,25.41358598,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,1,June,100,36
+215770,518,74,M,22.32756936,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00000231,Aortocoronary bypass of one coronary arteryCox-Maze procedure,general,D00009626,202,N,N,8A,Thursday,3,February,500,407
+81460,531,59,M,28.66896908,Urology,Admission,72,2,5930,Urology,P00000073,Adrenalectomy ( right / laparoscopic / convention ) ,general,D00006128,104,N,N,TF1,Monday,1,June,300,176
+72115,554,80,F,22.07934711,Otolaryngology,Admission,102,2,5917,Otolaryngology,P00002780,Excisional biopsy of lymph node,general,D00003302,504,N,N,8A,Friday,4,March,100,90
+157978,575,89,F,28.22222222,Orthopedics,Admission,41,2,29473,Orthopedics,P00007937,RTSA (Reverse total shoulder arthroplasty) ( right ) ,general,D00021745,110,N,N,8A,Wednesday,2,December,200,140
+81724,576,53,M,22.08503484,General Surgery,Admission,51,1,28647,General Surgery,P00000926,Cecectomy ( laparoscopic ) Small bowel segmental resection ( laparoscopic / single ) ,general,D00011577,107,N,N,TF2,Monday,1,June,300,215
+82302,576,53,M,22.08503484,General Surgery,Admission,51,1,28650,General Surgery,P00000717,Ileocecectomy ( conversion(open) / with lymph node dissection ) ,general,D00011563,106,Y,Y,etc,Thursday,1,June,200,207
+68796,590,78,F,28.27478001,General Surgery,Admission,45,3,28651,General Surgery,P00002991,"Fistulectomy, anus",spinal,D00011740,504,N,N,etc,Wednesday,1,March,100,76
+202570,614,78,F,19.76029038,Cardiovascular Thoracic Surgery,Admission,RICU,3,31030,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve ( mitral valve / tissue valve ) ,general,D00009704,203,N,N,TF1,Monday,3,November,500,305
+214929,614,78,F,19.76029038,Neurosurgery,Admission,45,2,14480,Neurosurgery,P00007807,Vertebroplasty,local,D00019768,207,N,N,TF2,Wednesday,2,February,200,45
+191749,643,73,M,17.9296875,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00000232,Off pump CABG (coronary artery bypass graft) surgery (two or more vessel),general,D00009568,203,N,N,MD,Tuesday,3,August,500,341
+124970,647,73,M,24.56144558,Urology,Admission,84,1,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),spinal,D00014220,106,N,N,TF4,Tuesday,3,May,100,52
+177884,647,73,M,24.56144558,Urology,Admission,121,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00003602,104,Y,N,TF4,Friday,1,June,100,34
+259695,647,73,M,24.56144558,Urology,Admission,72,1,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00003602,504,Y,N,TF1,Friday,2,January,100,30
+146554,655,82,F,25.7886192,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF8,Monday,3,December,100,31
+189101,665,90,F,24.31501362,Orthopedics,Admission,41,2,100646,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( right ) ",spinal,D00019350,108,N,N,8A,Friday,5,July,130,110
+156394,678,71,F,25.99497077,General Surgery,Admission,52,2,28648,General Surgery,P00003935,Laparoscopic gastric wedge resection ( without lymph node dissection ) ,general,D00003996,106,N,N,TF4,Thursday,4,November,130,101
+231372,688,79,F,21.72014395,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008879,502,N,N,TF2,Monday,1,July,100,30
+277775,699,80,M,20.94728625,Urology,Admission,84,2,100880,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E6,N,N,MD,Wednesday,3,May,300,119
+106723,701,57,F,24.75603739,General Surgery,Admission,65,2,28655,General Surgery,P00003962,Laparoscopy-assisted distal gastrectomy (Billroth II) (Braun J-J) ( with standard lymph node dissection ) ,general,D00001352,110,N,N,MD,Friday,1,December,400,280
+75626,711,49,M,23.6849973,General Surgery,Admission,52,2,28656,General Surgery,P00003951,,general,D00003016,110,N,N,TF4,Thursday,3,April,300,320
+112525,711,49,M,23.6849973,General Surgery,Admission,51,3,28647,General Surgery,P00003281,"Transverse loop colostomyAdhesiolysis, abdomen ( laparotomy ) ",general,D00011697,208,Y,N,TF3,Tuesday,3,January,100,170
+166660,711,49,M,23.6849973,General Surgery,Admission,54,3,29458,General Surgery,P00002818,"Transverse loop colostomyColon segmental resection ( open / single ) Adhesiolysis, intestine to intestineMass excision, peritoneal tissue",general,D00001437,108,N,N,TF2,Tuesday,2,February,300,152
+181964,711,49,M,23.6849973,Internal Medicine,Admission,64,2,29464,General Surgery,P00002818,Permanent ileostomy,general,D00011703,107,Y,N,TF2,Tuesday,2,June,200,155
+62951,715,72,M,19.3507616,Ophthalmology,Admission,81,2,27962,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008857,501,N,N,TF2,Wednesday,2,May,130,50
+86163,715,72,M,19.3507616,Ophthalmology,Day,81,2,30744,Ophthalmology,P00004971,Irrigation of anterior chamber ( right ) ,local,D00008857,501,Y,N,etc,Thursday,1,July,100,30
+161883,738,72,F,20.77792553,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00007872,Wide excision of other site,general,D00003573,108,N,N,TF2,Tuesday,2,January,120,86
+175414,738,72,F,20.77792553,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00008130,Total mastectomy ( left / with sentinel lymph node biopsy ) ,general,D00003573,208,Y,N,8A,Tuesday,4,April,130,87
+247330,750,53,F,20.16366485,Plastic Surgery,Admission,81,1,11896,Plastic Surgery,P00000601,Breast implant insertion ( bilateral ) ,general,D00014453,504,N,N,TF2,Thursday,4,September,130,131
+111204,753,85,M,22.57094134,General Surgery,Admission,84,3,28647,General Surgery,P00002432,Delorme's operation,general,D00010430,106,N,N,TF6,Monday,2,January,40,106
+186379,789,81,M,23.79426716,Urology,Admission,72,2,6019,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E6,N,N,8A,Wednesday,5,July,300,130
+262558,823,91,F,27.11111111,Orthopedics,Admission,41,2,29477,Orthopedics,P00007398,THRA (total hip replacement arthroplasty) ( left ) ,spinal,D00012910,108,Y,N,8A,Wednesday,1,January,230,133
+96252,829,76,M,21.9708729,Urology,Admission,72,2,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) Nephrectomy ( left / partial / robotic ) ",general,D00002512,E5,N,N,8A,Tuesday,1,October,400,300
+264332,829,76,M,21.9708729,Ophthalmology,Admission,81,3,6223,Ophthalmology,P00005344,Penetration keratoplasty ( right ) ,general,D00008542,502,N,N,8A,Thursday,4,March,130,91
+275996,829,76,M,21.9708729,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007540,,local,D00008929,502,Y,N,TF8,Monday,3,April,100,71
+195809,838,60,M,27.38447807,Neurosurgery,Admission,55,3,6238,Neurosurgery,P00004687,Open biopsy of brain,general,D00005184,201,N,N,TF1,Monday,5,September,300,89
+107576,887,92,F,19.34749349,General Surgery,Admission,54,4,28651,General Surgery,P00008175,Colostomy ( open / loop / T-colon ) ,general,D00014205,208,N,N,TF4,Tuesday,2,December,130,92
+296091,906,81,F,27.63036709,Obstetrics & Gynecology,Admission,35,2,14171,Obstetrics & Gynecology,P00008135,Insertion of TOT (transobturator tape)Diagnostic cystoscopyTotal hysterectomy ( multiport total laparoscopy ) Salpingo-oophorectomy ( bilateral / multiport total laparoscopy ) ,general,D00014611,101,N,N,8A,Wednesday,2,September,200,217
+118503,908,61,F,19.73578595,Obstetrics & Gynecology,Admission,35,2,29028,Obstetrics & Gynecology,P00001790,Diagnostic laparoscopySalpingo-oophorectomy ( left / multiport total laparoscopy ) ,general,D00003011,103,N,N,TF1,Wednesday,4,February,130,68
+229885,948,83,F,22.40888259,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008480,502,N,N,8A,Wednesday,2,May,100,51
+257808,949,81,F,25.86812786,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( right ) Excisional biopsy of benign soft tissue tumor,general,D00002214,208,N,N,TF5,Wednesday,1,December,130,59
+114302,990,55,F,24.64099896,Plastic Surgery,Admission,65,1,11896,Plastic Surgery,P00000827,"Breast reconstruction, free TRAM MC (transverse rectus abdominis muscle myocutaneous) flap ( left ) ",general,D00002196,504,N,N,TF4,Thursday,1,February,600,431
+256010,1010,86,F,23.9990911,Orthopedics,Admission,44,2,108679,Orthopedics,P00007937,RTSA (Reverse total shoulder arthroplasty) ( right ) ,general,D00021742,105,N,N,8A,Wednesday,4,November,200,102
+108164,1030,84,M,23.48767291,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,local,D00008879,502,N,N,TF4,Monday,4,January,100,38
+108165,1030,84,M,23.48767291,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,local,D00008879,502,Y,N,TF3,Monday,5,January,101,31
+135987,1035,71,F,20.1889083,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF4,Wednesday,1,May,100,37
+149943,1047,70,M,20.64664498,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,8A,Monday,2,November,100,86
+210115,1054,79,M,24.61543978,Urology,Admission,72,2,5968,Urology,P00007733,"Urethroplasty for stricture, anterior urethral",general,D00014236,103,N,N,TF2,Tuesday,3,February,130,108
+76781,1060,87,F,29.89647756,Orthopedics,Admission,44,2,29117,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,105,N,N,TF1,Thursday,1,May,200,175
+77636,1060,87,F,29.89647756,Orthopedics,Admission,44,2,29111,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012919,105,Y,N,8A,Thursday,2,May,200,145
+241379,1067,74,F,21.4351392,Neurosurgery,Admission,55,2,99429,Neurosurgery,P00001315,"Coil embolization of aneurysm, neuroendovascular",general,D00010146,ANGIO,N,N,8A,Friday,2,August,300,110
+102681,1077,73,M,18.24077527,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008857,502,N,N,8A,Tuesday,2,January,100,32
+103776,1082,76,F,19.87210101,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00004971,,local,D00008881,502,N,N,TF7,Monday,3,November,130,67
+103777,1082,76,F,19.87210101,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00004971,,local,D00008881,502,Y,N,TF6,Monday,4,November,130,70
+225076,1101,76,F,22.16147715,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008894,502,N,N,TF2,Monday,2,July,100,32
+235450,1101,76,F,22.16147715,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008676,502,Y,N,TF3,Monday,1,July,100,28
+94746,1103,88,F,24.21875,Orthopedics,Admission,44,2,29110,Orthopedics,P00007807,Vertebroplasty,local,D00018711,106,N,Y,etc,Monday,1,September,100,49
+271447,1124,79,F,21.98431233,Otolaryngology,Admission,102,2,6154,Otolaryngology,P00002462,Excision of lip lesion or tissue ( left ) ,local,D00011405,504,N,N,TF3,Thursday,5,March,100,25
+232917,1146,70,F,20.27314576,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002514,Endoscopic sinus surgery ( left ) ,general,D00011423,204,N,N,8A,Friday,5,July,100,81
+142222,1150,80,M,24.81704823,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF3,Thursday,5,January,100,37
+152720,1185,76,F,25.03931594,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008879,502,N,N,TF7,Tuesday,3,December,100,55
+186043,1211,89,M,25.33387054,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00005407,,general,D00008676,502,N,N,TF6,Monday,3,August,100,50
+113284,1220,76,M,27.10695674,Cardiovascular Thoracic Surgery,Admission,71,2,6084,Cardiovascular Thoracic Surgery,P00004217,VATS (video-assisted thoracic surgery) RULobectomyMediastinal lymph node dissection ( right / VATS ) ,general,D00018133,104,N,N,TF1,Monday,4,January,300,138
+150268,1220,76,M,27.10695674,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00003986,Laryngomicrosurgery (LMS) ( left ) ,general,D00010718,504,N,N,TF1,Monday,5,October,100,73
+203372,1243,80,M,26.42345036,Ophthalmology,Day,81,2,30968,Ophthalmology,P00004971,Excision of orbital fat prolapse ( right ) Excision of orbital fat prolapse ( right ) ,MAC,D00008407,501,N,N,8A,Friday,4,January,100,33
+296471,1243,80,M,26.42345036,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF7,Friday,4,September,100,34
+101383,1253,85,F,25.76816732,General Surgery,Admission,51,3,28655,General Surgery,P00006766,Right hemicolectomy ( open / with lymph node dissection ) ,general,D00001397,106,N,N,8A,Monday,5,October,200,140
+133091,1253,85,F,25.76816732,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00006016,501,N,N,TF3,Wednesday,1,September,100,38
+281941,1261,84,F,24.01608733,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Friday,5,July,100,31
+281942,1261,84,F,24.01608733,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,501,Y,N,TF1,Friday,2,July,100,21
+180045,1300,85,F,24.06642897,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,3,September,100,27
+222163,1300,85,F,24.06642897,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy ) Excisional biopsy of soft tissue,general,D00003573,203,N,N,TF3,Friday,5,April,130,124
+90016,1307,82,M,19.33976265,Orthopedics,Admission,44,1,29110,Orthopedics,P00000376,"Arthroscopic meniscectomy, medial and lateral meniscus, knee ( right ) ",spinal,D00013014,105,N,N,TF2,Monday,2,August,100,55
+203924,1309,69,M,29.03596539,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF3,Monday,2,December,100,35
+168414,1340,74,F,23.79925051,Cardiovascular Thoracic Surgery,Admission,RICU,3,31030,Cardiovascular Thoracic Surgery,P00000902,Replacement of heart valve,general,D00009709,202,N,N,TF1,Monday,4,February,600,471
+295703,1341,84,M,25.63211647,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008762,501,N,N,8A,Wednesday,3,September,100,42
+199869,1361,54,M,25.42162698,Ophthalmology,Admission,81,1,30791,Ophthalmology,P00005344,Penetration keratoplasty with allograft ( right ) ,general,D00008575,502,N,N,TF5,Wednesday,2,March,200,136
+129036,1380,56,M,25.6793332,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00005023,Excision of neck mass,general,D00001164,204,N,N,TF2,Tuesday,4,May,100,126
+125316,1449,80,M,22.80469002,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,MAC,D00008804,501,N,N,TF4,Thursday,3,June,100,24
+146353,1455,72,F,19.36331366,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00000902,Repair of heart valve ( tricuspid valve / annulus ) ,general,D00009702,202,N,N,8A,Tuesday,2,September,600,337
+230158,1467,83,M,23.39424122,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Thursday,2,August,100,38
+173212,1478,96,M,25.64056804,General Surgery,Admission,EICU,2,29078,General Surgery,P00002818,"Aortoiliac bypass, bilateral",general,D00010235,208,N,Y,etc,Tuesday,5,March,300,738
+126400,1487,89,F,26.0546875,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00002309,,local,D00014216,OPTO2,N,N,etc,Thursday,4,April,100,26
+93858,1512,50,F,22.17158097,Plastic Surgery,Admission,102,2,11896,Plastic Surgery,P00000843,Breast tissue expander insertion ( right ) ,general,D00002196,10,N,N,8A,Wednesday,1,September,230,221
+132833,1512,50,F,22.17158097,Plastic Surgery,Admission,81,1,11896,Plastic Surgery,P00008162,Breast implant insertion ( right ) ,general,D00002196,504,Y,N,TF3,Tuesday,2,June,100,82
+112680,1521,78,M,24.88210104,Ophthalmology,Admission,81,2,30968,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008857,501,N,N,8A,Wednesday,3,February,130,66
+173525,1521,78,M,24.88210104,Neurosurgery,Admission,SICU,2,6238,Neurosurgery,P00002183,Endoscopic transsphenoidal approach and tumor removal,general,D00004762,209,N,N,8A,Wednesday,2,April,500,129
+248456,1532,88,F,23.90720514,Orthopedics,Admission,44,3,108681,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( left ) ",spinal,D00019350,108,N,N,TF1,Friday,5,October,200,81
+133725,1602,74,M,20.32938342,Urology,Admission,72,2,6087,Urology,P00005580,"Prostatectomy, retropubic",general,D00002512,503,N,N,TF3,Thursday,4,June,300,101
+168633,1628,80,F,25.16737578,Obstetrics & Gynecology,Admission,35,2,13270,Obstetrics & Gynecology,P00003269,Hysteroscopic operationLarge loop excision of transformation zone (cervix),general,D00014611,D104,N,N,TF2,Friday,1,March,100,35
+96603,1631,55,M,28.67784499,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar (23G)",MAC,D00008871,501,N,N,8A,Thursday,1,October,130,55
+201565,1631,55,M,28.67784499,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) Removal of preretinal membrane ( right ) Endolaser on chorioretinal lesion ( right ) Intravitreal injection ( right ) ",MAC,D00008871,501,Y,N,TF3,Thursday,3,November,130,56
+151946,1644,83,F,23.79936905,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00001602,Dacryocystorhinostomy ( left / external ) ,general,D00008361,501,N,N,TF1,Wednesday,2,November,130,88
+192257,1644,83,F,23.79936905,Ophthalmology,Day,81,2,30791,Ophthalmology,P00004063,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis ( left ) ,MAC,D00008294,501,Y,N,8A,Friday,2,October,100,64
+264607,1644,83,F,23.79936905,Obstetrics & Gynecology,Admission,35,2,14171,Obstetrics & Gynecology,P00008135,Total hysterectomy ( laparotomy ) Salpingo-oophorectomy ( bilateral / laparotomy ) Omentectomy ( laparotomy ) Pelvic adhesiolysis ( laparotomy ) Intraoperative washing cytology of pelvic and abdominal cavity ( laparotomy ) Pelvic lymph node sampling,general,D00002404,102,N,N,8A,Wednesday,3,January,230,144
+183406,1647,81,M,24.47742838,Urology,Admission,72,3,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate)Cystoscopic stone removal,spinal,D00014269,103,N,N,TF2,Monday,5,September,100,68
+109406,1676,84,F,24.29543246,General Surgery,Admission,54,2,28651,General Surgery,P00006950,SigmoidectomySmall bowel segmental resection ( laparoscopic / multiple ) ,general,D00011691,103,N,N,MD,Monday,4,December,400,213
+171279,1676,84,F,24.29543246,Rehabilitation Medicine,Admission,82,2,100647,Orthopedics,P00003492,Incisional biopsy of muscle tissue,local,D00008034,106,N,Y,etc,Wednesday,3,March,100,37
+217285,1676,84,F,24.29543246,Orthopedics,Admission,42,2,100649,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( left ) ",spinal,D00019350,110,Y,N,TF3,Tuesday,1,March,200,101
+249683,1716,82,M,22.24742701,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF1,Monday,4,November,100,37
+249684,1716,82,M,22.24742701,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008676,502,Y,N,8A,Monday,4,December,100,41
+133663,1720,77,F,19.34498802,General Surgery,Admission,81,2,9885,General Surgery,P00007872,Axillary lymph node dissection ( right ) ,general,D00002208,203,N,N,TF2,Thursday,2,June,130,91
+132032,1773,85,M,28.61954368,Orthopedics,Admission,44,2,29473,Orthopedics,P00005088,"Unicompartmental (unicondylar) arthroplasty, knee ( left ) ",general,D00012919,108,N,N,8A,Friday,1,June,200,107
+192558,1773,85,M,28.61954368,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",MAC,D00008862,501,N,N,8A,Thursday,4,September,130,51
+236051,1773,85,M,28.61954368,Orthopedics,Admission,41,3,29572,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion) ( right ) ,general,D00013277,106,N,N,TF1,Monday,1,July,500,271
+70661,1776,81,M,26.60272799,Internal Medicine,Admission,85,2,28652,General Surgery,P00000562,"AVF (Arteriovenous fistula), radial-cephalic",local,D00006000,GSOOR,N,N,etc,Monday,3,March,100,95
+158972,1780,81,F,21.52338329,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF6,Thursday,4,March,100,25
+257249,1799,59,F,22.34488273,Internal Medicine,Admission,85,3,100875,Cardiovascular Thoracic Surgery,P00002497,Biopsy of mediastinum ( left / anterior / incisional / VATS ) ,general,D00021491,103,N,N,TF3,Friday,4,November,200,150
+160554,1850,73,M,22.86203778,Urology,Admission,72,3,5930,Urology,P00004507,Nephrectomy ( left / partial / open ) Nephrolithotomy ( left / flexible ureteroscopic ) ,general,D00014171,104,N,N,8A,Monday,3,February,300,289
+128836,1854,83,F,20.09724498,General Surgery,Admission,121,1,9885,General Surgery,P00008130,Total mastectomy ( bilateral / with sentinel lymph node biopsy & axillary lymph node dissection ) ,general,D00002196,6,N,N,MD,Friday,2,May,130,159
+153243,1870,85,F,21.42830113,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008848,501,N,N,TF5,Thursday,1,January,100,28
+153244,1870,85,F,21.42830113,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008848,501,Y,N,TF4,Thursday,2,January,100,39
+147316,1886,78,F,29.18760998,Orthopedics,Admission,41,3,29474,Orthopedics,P00007641,TSRA (total shoulder replacement arthroplasty) ( right ) ,general,D00021745,110,N,N,TF1,Wednesday,4,September,200,117
+169051,1886,78,F,29.18760998,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Wide excision of other site,general,D00003573,107,N,N,8A,Friday,4,February,120,58
+90415,1902,76,F,25.19044321,Internal Medicine,Admission,85,3,28655,General Surgery,P00000562,"AVF (Arteriovenous fistula), radial-cephalic",MAC,D00021491,106,N,N,TF2,Thursday,1,August,100,100
+100495,1902,76,F,25.19044321,Internal Medicine,Admission,85,2,6216,General Surgery,P00006169,Removal of permanent catheter,local,D00021491,GSOOR,Y,N,etc,Monday,4,December,30,28
+171283,1928,91,F,22.42465611,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF8,Monday,5,March,100,38
+171284,1928,91,F,22.42465611,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,etc,Monday,3,April,100,33
+142193,1941,80,F,18.72782955,General Surgery,Admission,51,2,29077,General Surgery,P00006766,Right hemicolectomy ( open / with lymph node dissection ) ,general,D00001397,106,N,N,8A,Monday,2,August,200,99
+205108,1952,76,F,19.97918835,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008857,502,N,N,TF2,Monday,3,January,100,35
+205109,1952,76,F,19.97918835,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008857,502,Y,N,8A,Monday,4,January,100,49
+181885,2011,68,M,23.17633136,Orthopedics,Admission,41,2,100649,Orthopedics,P00004776,"Open reduction and internal fixation, clavicle and scapula ( left ) ",general,D00018865,5,N,N,TF2,Monday,2,June,300,91
+243652,2040,70,M,24.69112426,Orthopedics,Admission,44,2,29477,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion) ( bilateral ) ,general,D00013829,106,N,N,8A,Thursday,4,August,330,226
+120493,2058,84,M,21.2990385,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Monday,4,May,100,27
+120494,2058,84,M,21.2990385,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF8,Monday,1,June,100,26
+269716,2070,80,M,25.36790997,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"PE & PCL (Phacoemulsification & Posterior chamber lens implantation) ( left ) Vitrectomy, pars planar ( left ) Endolaser on chorioretinal lesion ( left ) Removal of epiretinal membrane ( left ) ",general,D00008862,501,N,N,TF2,Wednesday,1,April,130,70
+215184,2077,71,M,26.22310162,Orthopedics,Admission,44,3,100646,Orthopedics,P00002309,Excision of benign soft tissue tumor,general,D00004136,105,N,N,8A,Tuesday,3,February,200,106
+267776,2097,79,F,24.82170264,Orthopedics,Admission,41,2,29476,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,110,N,N,8A,Thursday,2,February,200,140
+100978,2124,93,M,24.98300195,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,local,D00008885,502,N,N,8A,Monday,2,December,100,50
+100979,2124,93,M,24.98300195,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,local,D00008885,502,Y,N,8A,Monday,3,December,100,44
+93502,2168,48,F,19.46998378,General Surgery,Admission,45,2,9885,General Surgery,P00007872,Excision of single benign breast mass ( right ) ,general,D00005418,102,N,Y,TF1,Friday,4,August,120,65
+99312,2168,48,F,19.46998378,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00007872,Wide excision of other site,general,D00002233,203,Y,N,TF1,Thursday,2,October,120,65
+282769,2185,85,F,19.18874362,Neurosurgery,Admission,45,2,6013,Neurosurgery,P00007163,"Stereotactic stimulation, subthalamus",local,D00007494,207,N,N,TF1,Tuesday,5,May,130,100
+161518,2186,83,M,28.66088666,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Friday,2,February,100,38
+161519,2186,83,M,28.66088666,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,8A,Thursday,4,February,100,55
+95076,2197,99,F,19.43808533,Orthopedics,Admission,42,2,29117,Orthopedics,P00001038,"Closed reduction of fracture, intertrochanter, with compression hip screw ( right ) ",spinal,D00019351,106,N,Y,TF3,Wednesday,1,September,200,145
+281424,2198,90,M,27.2510152,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008797,501,N,N,TF3,Tuesday,5,June,100,34
+147729,2215,91,F,26.53333333,General Surgery,Day,81,2,30784,General Surgery,P00002199,Endovascular treatment of varicose vein,local,D00010407,OPTO1,N,N,etc,Friday,4,September,200,105
+172968,2215,91,F,26.53333333,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Thursday,1,May,100,45
+173006,2215,91,F,26.53333333,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF1,Thursday,3,May,100,46
+129727,2229,78,F,23.86817132,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( right / with sentinel lymph node biopsy & axillary lymph node dissection ) ,general,D00002196,203,N,N,TF2,Thursday,3,May,130,91
+139277,2238,71,F,29.35952203,Orthopedics,Admission,41,1,29475,Orthopedics,P00004787,"Open reduction and internal fixation, radius and ulna ( right ) ",general,D00019028,108,N,N,MDTF1,Tuesday,4,July,230,241
+109085,2253,80,F,25.55242757,Orthopedics,Admission,44,2,29111,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( left ) ",general,D00019028,105,N,N,MDTF1,Friday,3,December,300,122
+82406,2259,73,F,22.51808021,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007417,Thyroid lobectomy ( right / open ) ,general,D00005901,503,N,N,8A,Monday,3,July,130,82
+257586,2259,73,F,22.51808021,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( right / without sentinel lymph node biopsy ) Breast-conserving surgery ( right / without sentinel lymph node biopsy ) ,general,D00002208,208,N,N,TF2,Tuesday,5,November,130,70
+241068,2271,92,M,22.64349793,Urology,Admission,121,3,100880,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,103,N,N,MDTF3,Thursday,4,August,100,31
+97274,2275,88,M,25.70194419,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008796,501,N,N,TF9,Tuesday,3,January,100,40
+97275,2275,88,M,25.70194419,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008796,501,Y,N,TF7,Tuesday,4,January,100,143
+153006,2304,76,M,22.11218308,Internal Medicine,Admission,51,2,29076,General Surgery,P00006765,Segmentectomy of liver ( open ) ,general,D00001469,208,N,N,8A,Monday,1,November,300,196
+126121,2309,70,M,26.30081733,Ophthalmology,Day,81,1,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",general,D00008857,501,N,N,8A,Wednesday,2,June,130,84
+63995,2316,89,F,24.73407664,Ophthalmology,Day,81,2,27962,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,4,March,100,35
+153553,2318,78,F,25.24721404,General Surgery,Admission,121,2,29082,General Surgery,P00004074,"Ligation and stripping of varicose vein, great saphenous vein ( right ) ",spinal,D00010407,105,N,N,TF1,Thursday,1,November,200,111
+236948,2331,79,F,17.74584488,General Surgery,Admission,65,2,29460,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011977,106,N,N,8A,Friday,1,July,100,51
+234235,2359,76,F,22.91810942,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00007536,Total thyroidectomy,general,D00005901,504,N,N,TF2,Thursday,1,August,200,132
+190242,2364,81,M,17.46123535,Cardiovascular Thoracic Surgery,Admission,74,2,5958,Cardiovascular Thoracic Surgery,P00004217,VATS (video-assisted thoracic surgery) LUL wedge resection,general,D00010996,104,N,N,8A,Wednesday,1,August,230,124
+74242,2407,85,M,22.88142052,General Surgery,Admission,54,2,28652,General Surgery,P00008060,Laparoscopic totally extrapertitoneal inguinal hernia repair ( left ) ,general,D00014098,209,N,N,TF1,Friday,2,April,200,133
+108121,2464,77,F,23.87622838,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00002591,Wide excision of soft tissue,general,D00002196,6,N,N,MDTF3,Friday,2,December,40,59
+206008,2472,86,F,22.38697204,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Thursday,2,March,100,41
+206009,2472,86,F,22.38697204,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF1,Thursday,3,March,100,34
+255786,2482,75,F,23.02631579,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Monday,2,July,100,27
+80200,2486,80,F,19.227063,Ophthalmology,Day,81,2,30744,Ophthalmology,P00002562,,MAC,D00009228,502,N,N,TF6,Monday,3,June,100,55
+185465,2502,83,F,26.53706684,Orthopedics,Admission,44,3,100648,Orthopedics,P00004779,"Open reduction and internal fixation, humerus ( right ) ",general,D00018883,105,N,N,etc,Friday,1,July,300,223
+175345,2514,73,F,20.504934,Orthopedics,Admission,41,2,100668,Orthopedics,P00004778,"Open reduction and internal fixation, fibula ( right ) ",spinal,D00019467,106,N,N,TF2,Wednesday,4,April,200,71
+177578,2556,81,F,29.34081839,Orthopedics,Admission,42,2,29476,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,108,N,N,8A,Friday,2,May,200,141
+252118,2558,84,F,25.20398137,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,1,March,100,26
+252119,2558,84,F,25.20398137,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF2,Thursday,3,March,100,35
+185846,2560,85,F,26.82468794,Orthopedics,Admission,41,2,29115,Orthopedics,P00007937,RTSA (Reverse total shoulder arthroplasty) ( right ) ,general,D00018955,105,N,N,8A,Friday,2,July,200,94
+207046,2565,65,F,17.64074015,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00005449,Replacement of heart valve ( tissue valve ) Implantation of permanent pacemaker,general,D00016271,202,N,N,8A,Wednesday,3,December,500,530
+278714,2565,65,F,17.64074015,Ophthalmology,Day,81,3,6223,Ophthalmology,P00004971,,local,D00008885,502,N,N,TF9,Friday,1,June,130,91
+126833,2566,73,F,24.85623779,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF4,Thursday,2,January,100,25
+126834,2566,73,F,24.85623779,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Thursday,3,January,100,35
+212659,2586,83,M,22.84057185,Urology,Admission,72,2,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,N,N,TF1,Monday,2,February,300,125
+286090,2588,69,M,24.84448236,Urology,Admission,72,2,7391,Urology,P00004515,Nephrolithotomy ( left / flexible ureteroscopic ) ,general,D00014104,103,N,N,TF4,Wednesday,3,August,200,181
+260537,2623,53,F,23.70042757,Orthopedics,Admission,42,2,108678,Orthopedics,P00005373,Percutaneous pinning,general,D00019157,105,N,N,8A,Tuesday,4,December,100,41
+220542,2628,84,F,15.64239571,Neurology,Admission,EICU,3,6194,Otolaryngology,P00007550,Tracheostomy,general,D00010598,208,N,N,TF3,Monday,5,March,100,76
+194750,2664,86,F,20.91011056,Rehabilitation Medicine,Admission,42,2,100648,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( right ) ",spinal,D00019350,108,N,N,TF3,Wednesday,3,September,230,126
+95617,2668,80,M,25.3439198,General Surgery,Admission,51,2,29079,General Surgery,P00006344,Repair of inguinal hernia ( right / open / indirect / without prosthesis ) ,spinal,D00011589,503,N,N,MD,Monday,2,September,100,65
+105138,2698,88,F,33.15043439,Orthopedics,Admission,42,2,28695,Orthopedics,P00006720,Revision of all components of TKRA (total knee replacement arthroplasty) ( right ) ,general,D00012919,105,N,N,TF1,Thursday,4,November,330,258
+182739,2701,76,F,25.69508063,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF6,Tuesday,3,October,100,31
+237469,2737,71,M,27.27798865,Ophthalmology,Day,81,2,6223,Ophthalmology,P00004971,Removal of corneal suture under microscopy ( right ) Suture of wound,general,D00008540,501,N,N,TF3,Thursday,2,July,130,89
+183887,2739,80,F,29.76764992,Obstetrics & Gynecology,Admission,35,3,13270,Obstetrics & Gynecology,P00003648,Insertion of TOT (transobturator tape),general,D00014258,101,N,N,TF1,Wednesday,4,June,100,48
+223290,2739,80,F,29.76764992,General Surgery,Admission,51,2,100617,General Surgery,P00006338,Repair of hiatal hernia ( laparoscopic / convention / Toupet ) ,general,D00011614,109,N,N,8A,Friday,1,April,200,172
+212090,2741,90,M,24.85795455,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008797,501,N,N,8A,Monday,5,May,130,86
+136685,2749,73,M,21.880461,General Surgery,Admission,84,1,29081,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011998,106,N,N,8A,Thursday,1,July,100,46
+266467,2757,79,F,25.90180049,Orthopedics,Admission,41,2,108681,Orthopedics,P00000397,"Arthroscopic repair of ruptured rotator cuff, complex, shoulder ( right ) ",general,D00021742,105,N,N,TF1,Wednesday,4,January,130,119
+169298,2777,88,M,18.45946712,General Surgery,Admission,SICU2,4,28649,General Surgery,P00002818,Serosal repair or primary repair of perforated intestine,general,D00011482,110,N,Y,etc,Saturday,4,February,300,150
+73896,2786,54,M,26.29556617,Ophthalmology,Day,81,2,6223,Ophthalmology,P00000607,,general,D00009007,502,N,N,MD,Friday,4,October,130,75
+131082,2815,91,F,24.66084361,Internal Medicine,Admission,85,2,43551,General Surgery,P00006664,Revision of arteriovenous fistula for renal dialysis,local,D00014094,OPTO1,N,N,etc,Wednesday,3,June,100,158
+205519,2815,91,F,24.66084361,General Surgery,Admission,52,2,100873,General Surgery,P00006664,Revision of arteriovenous fistula for renal dialysisRevision of arteriovenous fistula for renal dialysis,local,D00014097,OPTO1,N,N,etc,Friday,1,December,100,104
+142771,2821,71,M,23.80593925,Urology,Admission,72,3,15127,Urology,P00003250,Hydrodistention of bladder,general,D00017713,103,N,N,TF4,Monday,2,September,130,84
+221920,2848,83,M,28.72006619,General Surgery,Admission,51,3,100611,General Surgery,P00006344,Repair of inguinal hernia ( left / open / indirect / without prosthesis ) ,general,D00011589,105,N,N,TF1,Thursday,5,April,100,72
+86574,2854,88,M,24.48041305,Orthopedics,Admission,42,2,28694,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,106,N,N,8A,Tuesday,2,July,200,160
+266354,2881,84,M,26.42962063,Urology,Admission,72,2,7391,Urology,P00007615,HoLEP (Holmium laser enucleation of prostate)Cystolithotomy,general,D00014110,103,N,N,TF3,Wednesday,1,March,200,103
+158921,2894,84,M,25.60146924,Internal Medicine,Admission,95,2,29080,General Surgery,P00000201,Hartmann procedure ( open / with lymph node dissection / colostomy ) ,general,D00001408,107,N,N,TF1,Monday,3,December,230,138
+159934,2901,82,F,27.27448761,Cardiovascular Thoracic Surgery,Admission,71,2,6084,Cardiovascular Thoracic Surgery,P00004217,VATS (video-assisted thoracic surgery) RULobectomy,general,D00001663,104,N,N,TF1,Monday,4,December,230,164
+142643,2968,72,M,23.1385071,Urology,Admission,72,3,7391,Urology,P00007615,Transurethral prostatectomy,general,D00014274,103,N,N,MD,Tuesday,5,October,200,173
+254115,3000,70,M,19.2528851,General Surgery,Admission,SICU2,4,108641,General Surgery,P00002818,Exploratory laparotomy ( R/O the other disease ) ,general,D00011825,109,N,Y,etc,Friday,1,November,300,578
+154274,3039,79,F,30.17970478,Neurosurgery,Admission,45,2,14480,Neurosurgery,P00008422,Spinal fusion,general,D00013283,207,N,N,TF1,Wednesday,2,November,500,386
+73342,3041,67,M,25.32146944,Urology,Admission,72,2,5887,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,104,N,N,TF1,Wednesday,4,April,100,51
+257348,3052,67,M,23.93359552,Orthopedics,Admission,44,2,29477,Orthopedics,P00007398,THRA (total hip replacement arthroplasty) ( right ) ,spinal,D00012910,108,N,N,TF1,Friday,1,December,230,126
+159539,3065,81,M,24.53062677,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF3,Monday,1,March,130,112
+81004,3107,98,F,21.00073046,Orthopedics,Admission,44,2,29115,Orthopedics,P00007807,Vertebroplasty,local,D00018711,110,N,Y,TF2,Tuesday,5,May,100,50
+181299,3184,78,M,25.47265935,General Surgery,Admission,54,2,29459,General Surgery,P00004070,"Ligation and stripping of varicose vein, great and small saphenous vein",spinal,D00010407,208,N,N,TF1,Thursday,1,June,200,101
+224686,3184,78,M,25.47265935,General Surgery,Admission,51,2,29458,General Surgery,P00000073,Adrenalectomy ( right / laparoscopic / LA ) ,general,D00006101,106,N,N,TF2,Wednesday,3,April,200,128
+115706,3201,85,F,23.12462269,General Surgery,Admission,64,1,6036,General Surgery,P00003923,Laparoscopic spleen preserving distal pancreatectomy ( Warshaw method ) Laparoscopic cholecystectomy,general,D00004899,107,N,N,TF3,Friday,1,February,200,162
+200995,3204,82,F,25.97170123,General Surgery,Admission,52,2,29465,General Surgery,P00003279,Right hemicolectomy ( laparoscopic / with lymph node dissection ) ,general,D00003300,106,N,N,TF1,Thursday,1,November,200,112
+201361,3235,85,F,20.49842775,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008807,501,N,N,8A,Monday,3,December,130,87
+138784,3246,79,F,19.55152431,Neurosurgery,Admission,84,1,6086,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010129,ANGIO,N,N,TF1,Friday,4,July,300,109
+292430,3246,79,F,19.55152431,Neurosurgery,Admission,55,2,6086,Neurosurgery,P00001315,"Coil embolization of aneurysm, neuroendovascular",general,D00010129,ANGIO,Y,N,8A,Thursday,1,August,300,100
+128840,3276,66,M,27.65376984,Ophthalmology,Admission,81,1,30744,Ophthalmology,P00005344,Penetration keratoplasty with allograft ( right ) ,general,D00008596,502,N,N,TF7,Wednesday,5,July,130,96
+145809,3282,64,M,25.97977324,Ophthalmology,Day,81,2,99332,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF9,Friday,2,December,100,52
+172406,3282,64,M,25.97977324,Ophthalmology,Day,81,1,6223,Ophthalmology,P00000071,,general,D00009305,204,Y,N,TF1,Wednesday,3,October,130,71
+223222,3319,92,F,21.06666667,Orthopedics,Admission,41,2,100648,Orthopedics,P00004779,Internal fixation of humerus ( right ) ,general,D00018878,105,N,N,MDTF1,Tuesday,2,April,300,201
+68282,3329,71,M,24.15126684,Orthopedics,Admission,42,2,28695,Orthopedics,P00006717,Revision of THRA (total hip replacement arthroplasty) ( right ) ,Spinal/epidural,D00020782,106,N,N,8A,Wednesday,1,March,500,430
+128978,3336,83,F,25.22019397,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",MAC,D00008762,501,N,N,TF3,Thursday,3,July,130,58
+108778,3402,55,M,21.26654064,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF9,Monday,4,December,100,48
+260270,3430,83,F,27.20738501,Urology,Admission,72,3,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,104,N,N,TF2,Tuesday,2,January,100,36
+141669,3431,76,M,25.06819081,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,local,D00008894,502,N,N,TF10,Monday,4,September,100,23
+159443,3431,76,M,25.06819081,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008894,502,Y,N,TF9,Tuesday,4,January,100,47
+122422,3489,75,F,24.66650842,Ophthalmology,Admission,81,3,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,3,May,130,36
+204806,3492,68,M,24.70939408,Cardiovascular Thoracic Surgery,Admission,RICU,3,5891,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve,general,D00009709,202,N,N,8A,Tuesday,1,December,500,322
+74162,3503,89,F,24.32843554,Cardiovascular Thoracic Surgery,Admission,121,3,5958,Cardiovascular Thoracic Surgery,P00007837,Segmentectomy of lung ( RLL / VATS / with mediastinal LN dissection ) ,general,D00011002,104,N,N,8A,Tuesday,2,April,230,180
+193919,3504,90,M,31.12068671,Neurosurgery,Admission,45,2,14480,Neurosurgery,P00003907,"Laminoplasty, cervical spineLaminectomy, thoracic spine",general,D00008198,207,N,N,TF1,Monday,3,September,400,331
+142526,3535,81,F,25.76880154,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,4,September,100,44
+72595,3536,86,F,23.05321653,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,local,D00008796,502,N,N,TF3,Monday,1,June,100,35
+72596,3536,86,F,23.05321653,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,local,D00008796,502,Y,N,TF2,Monday,2,June,101,40
+242140,3543,47,F,23.70042757,Obstetrics & Gynecology,Admission,56,2,14171,Obstetrics & Gynecology,P00003269,Endometrial polypectomy ( hysteroscopy ) ,general,D00014603,101,N,N,8A,Thursday,2,August,100,44
+280892,3551,85,M,25.95715657,Orthopedics,Admission,44,3,108681,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,105,N,N,8A,Friday,3,May,200,140
+164260,3555,84,F,25.70306793,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00006001,501,N,N,TF5,Thursday,2,May,100,30
+183324,3555,84,F,25.70306793,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,8A,Thursday,4,June,100,27
+127835,3595,81,M,23.68132659,Urology,Admission,72,1,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00017685,504,N,N,MD,Friday,5,May,100,50
+134439,3595,81,M,23.68132659,Urology,Admission,84,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,103,Y,N,MDTF1,Tuesday,2,July,100,72
+148419,3595,81,M,23.68132659,Urology,Admission,72,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,104,Y,N,TF4,Tuesday,2,October,100,55
+126894,3610,80,F,18.24826596,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,general,D00008676,502,N,N,TF1,Friday,1,May,100,66
+134542,3610,80,F,18.24826596,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008897,502,Y,N,TF7,Wednesday,4,September,100,68
+82414,3617,83,F,26.38787436,Neurosurgery,Admission,55,2,6086,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010162,ANGIO,N,N,8A30,Tuesday,2,June,300,138
+77593,3625,61,M,20.40995043,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00007664,Short columellization ( left ) ,MAC,D00009378,503,N,N,TF2,Tuesday,1,June,200,80
+162083,3660,73,F,24.6778031,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF8,Monday,4,May,100,39
+186234,3660,73,F,24.6778031,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00021532,502,Y,N,TF10,Monday,1,January,100,39
+180712,3662,88,F,19.74489796,Rehabilitation Medicine,Admission,EICU,3,6194,Otolaryngology,P00007550,Tracheostomy,general,D00010598,501,N,N,MDTF2,Monday,1,June,100,38
+232423,3662,88,F,19.74489796,Plastic Surgery,Admission,65,2,12472,Plastic Surgery,P00001631,Debridement of wound,local,D00012627,OPTO2,N,N,etc,Wednesday,3,June,100,30
+203472,3669,87,M,22.32047503,General Surgery,Admission,52,3,100615,General Surgery,P00002818,Ileostomy ( open / loop ) Small bowel segmental resection ( open / single ) ,general,D00001421,108,N,Y,etc,Friday,3,November,300,158
+193779,3701,68,M,22.04275045,Internal Medicine,Admission,85,2,30784,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014098,OPTO2,N,N,etc,Monday,4,September,100,97
+94145,3716,77,F,19.67040404,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF9,Monday,3,November,100,51
+94146,3716,77,F,19.67040404,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,501,Y,N,TF5,Monday,4,November,100,34
+81729,3722,81,M,23.89478614,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,local,D00008676,502,N,N,8A,Wednesday,1,July,100,45
+123938,3730,94,M,20.71029189,Ophthalmology,Admission,81,2,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",general,D00008781,501,N,N,8A,Tuesday,4,May,130,101
+218408,3741,81,F,21.63230965,Cardiovascular Thoracic Surgery,Admission,74,2,5958,Cardiovascular Thoracic Surgery,P00005458,VATS (video-assisted thoracic surgery) RLL wedge resection,general,D00001663,104,N,N,8A,Wednesday,2,March,300,212
+204826,3748,77,M,25.75033515,Orthopedics,Admission,42,2,29471,Orthopedics,P00007398,THRA (total hip replacement arthroplasty) ( right ) ,spinal,D00013704,110,N,N,8A,Tuesday,1,January,200,126
+139438,3766,46,F,20.86176701,Obstetrics & Gynecology,Admission,35,2,29028,Obstetrics & Gynecology,P00002818,Exploratory laparotomy ( R/O ovarian cancer ) Salpingo-oophorectomy ( right / laparotomy ) Pelvic adhesiolysis ( laparotomy ) Partial omentectomy ( laparotomy ) Biopsy of perirectal tissue,general,D00014577,102,N,N,TF3,Tuesday,4,July,200,131
+277386,3816,97,F,22.51537393,Internal Medicine,Admission,85,2,100873,General Surgery,P00005688,"AVG (Arteriovenous graft), brachial artery to axillary vein ( left ) ",local,D00009545,OPTO1,N,N,etc,Tuesday,3,April,130,105
+127351,3824,64,F,26.02490905,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00000732,Double eyelid operation ( BUL ) ,local,D00008284,OPTO2,N,N,etc,Friday,1,May,100,80
+239500,3839,74,F,25.833385,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008897,502,N,N,TF2,Tuesday,2,December,100,57
+187421,3844,75,F,18.70970294,Orthopedics,Admission,121,2,100668,Orthopedics,P00007293,"Primary repair of tendon (tenorrhaphy), forearm ( right ) ",general,D00013420,105,N,N,MD,Friday,3,July,100,120
+141720,3888,59,F,17.41103184,Cardiovascular Thoracic Surgery,Admission,71,2,6084,Cardiovascular Thoracic Surgery,P00004217,VATS (video-assisted thoracic surgery) RMLobectomyVATS (video-assisted thoracic surgery) RML wedge resectionVATS (video-assisted thoracic surgery) RLL wedge resection,general,D00011002,103,N,N,TF1,Thursday,1,August,230,142
+277320,3902,66,M,19.02927625,General Surgery,Admission,52,2,100616,General Surgery,P00001790,TLDG (Totally laparoscopic distal gastrectomy) with Billroth II ( with standard lymph node dissection ) ,general,D00001352,105,N,N,TF1,Monday,3,April,300,161
+168897,3912,81,M,24.85473356,Urology,Admission,72,2,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,104,N,N,8A,Thursday,2,March,300,151
+165699,3930,80,F,23.06805075,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,4,December,100,33
+165701,3930,80,F,23.06805075,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF1,Wednesday,2,December,100,31
+83373,3945,49,M,39.32987557,General Surgery,Admission,65,2,9930,General Surgery,P00001334,Thyroid lobectomy ( left / robotic ) ,general,D00002883,E5,N,N,TF1,Monday,3,June,330,210
+288122,3963,74,M,26.77304045,Ophthalmology,Admission,81,3,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008857,501,N,N,TF3,Wednesday,3,September,130,87
+184146,3975,94,F,18.12454346,General Surgery,Admission,52,2,29464,General Surgery,P00000201,Hartmann procedure ( open / with lymph node dissection / colostomy ) ,general,D00001408,106,N,Y,TF3,Tuesday,4,June,200,161
+269697,3984,74,F,20.07280172,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007536,Total thyroidectomy ( open ) ,general,D00005901,504,N,N,TF1,Wednesday,2,April,200,112
+144468,3987,86,F,16.97862604,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008336,502,N,N,TF1,Wednesday,2,July,100,38
+144470,3987,86,F,16.97862604,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008336,502,Y,N,8A,Wednesday,4,July,100,33
+59055,3992,69,M,26.42508764,Otolaryngology,Admission,84,2,6194,Otolaryngology,P00006729,Revision of tympanoplasty ( left ) ,general,D00009486,503,N,N,TF1,Thursday,4,January,130,155
+99942,3992,69,M,26.42508764,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00006729,Revision of tympanoplasty ( right ) ,MAC,D00009378,503,Y,N,TF2,Thursday,5,November,130,91
+172292,3992,69,M,26.42508764,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007664,Tympanoplasty ( right / endaural ) ,MAC,D00009363,503,Y,N,8A,Thursday,4,March,200,98
+221883,4041,82,M,19.47475567,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014286,103,N,N,TF4,Monday,1,April,100,82
+289269,4092,76,F,20.53688669,Otolaryngology,Admission,102,1,6154,Pediatric Otolaryngology,P00001334,Thyroid lobectomy ( left / open ) ,general,D00005901,8,N,N,MDTF1,Monday,2,August,200,164
+106149,4147,74,F,21.35481017,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008360,502,N,N,TF1,Wednesday,1,July,100,32
+106150,4147,74,F,21.35481017,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008360,502,Y,N,8A,Wednesday,3,July,100,30
+98506,4181,76,M,27.12437981,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008890,502,N,N,TF3,Monday,1,November,100,35
+162065,4181,76,M,27.12437981,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008676,502,Y,N,TF2,Monday,4,January,100,37
+61022,4197,65,F,27.5630282,Obstetrics & Gynecology,Admission,84,2,28601,Obstetrics & Gynecology,P00005671,Radical hysterectomy ( laparotomy ) Salpingo-oophorectomy ( bilateral ) Pelvic lymph node dissection ( bilateral / laparotomy ) ,general,D00002271,102,N,N,8A,Friday,2,January,200,230
+123281,4213,89,F,27.26800554,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,MAC,D00008336,502,N,N,etc,Friday,2,June,100,68
+134851,4213,89,F,27.26800554,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,local,D00008676,502,Y,N,TF9,Friday,4,June,100,63
+220041,4235,79,F,24.49539487,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008857,501,N,N,TF4,Monday,4,October,100,31
+159859,4241,83,F,30.23233366,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008800,502,N,N,8A,Thursday,3,March,100,56
+79636,4250,72,M,24.77209671,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00003987,Laryngomicrosurgery (LMS) ( bilateral ) ,general,D00001610,504,N,N,TF4,Monday,4,June,100,53
+101313,4250,72,M,24.77209671,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00003988,Laryngomicrosurgery (LMS) ( right ) ,general,D00003797,503,Y,N,TF2,Monday,1,December,100,78
+221385,4302,65,F,20.00297442,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007664,Canal wall down mastoidectomy ( right ) ,general,D00009400,503,N,N,8A,Thursday,4,April,200,290
+289140,4302,65,F,20.00297442,Otolaryngology,Day,81,2,5956,Otolaryngology,P00004966,Operation on eustachian tube ( right ) ,MAC,D00009391,503,Y,N,TF2,Friday,3,September,100,112
+150119,4303,67,F,22.70636884,Plastic Surgery,Admission,65,3,11896,Plastic Surgery,P00004768,Open reduction and internal fixation of fracture,general,D00018312,503,N,N,TF1,Monday,3,October,300,81
+210070,4311,51,F,29.62445309,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( right / with axillary lymph node dissection ) ,general,D00002208,3,N,N,MDTF1,Friday,1,January,130,115
+137533,4315,68,F,31.6290579,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF6,Thursday,2,January,100,30
+129143,4340,54,F,18.68114131,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00007417,Thyroid lobectomy ( right / open / CND(right) ) ,general,D00005901,503,N,N,8A30,Monday,1,June,130,97
+273307,4363,71,F,26.03749399,Orthopedics,Admission,41,2,108679,Orthopedics,P00000314,"Arthrodesis (fusion), TMT (tarsometatarsal) joint (Lisfranc) ( left ) Operation for hallux valgus and toe deformity ( left ) ",spinal,D00012934,106,Y,N,TF3,Wednesday,4,March,130,101
+184947,4366,76,F,18.57656299,General Surgery,Admission,NUGW2,1,9885,General Surgery,P00008130,Total mastectomy ( right / with axillary lymph node dissection ) ,general,D00002196,208,N,N,8A,Tuesday,5,June,130,129
+187744,4407,81,F,19.92122578,Obstetrics & Gynecology,Admission,35,2,13270,Obstetrics & Gynecology,P00003269,Endometrial polypectomy ( hysteroscopy ) ,general,D00014603,D104,N,N,TF3,Wednesday,4,July,100,43
+120170,4444,71,F,24.22879092,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF4,Tuesday,4,November,100,38
+120171,4444,71,F,24.22879092,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF3,Tuesday,1,December,100,35
+64585,4473,81,F,21.74319342,Ophthalmology,Admission,81,2,27962,Ophthalmology,P00005407,,MAC,D00008336,502,N,N,TF2,Wednesday,2,March,100,43
+149161,4513,67,M,23.5938757,General Surgery,Admission,64,2,29074,General Surgery,P00003935,Laparoscopic gastric wedge resection ( without lymph node dissection ) Laparoscopic cholecystectomy,general,D00003706,110,N,N,TF3,Wednesday,1,October,200,116
+297973,4514,84,F,22.9411344,Cardiovascular Thoracic Surgery,Admission,71,2,5958,Cardiovascular Thoracic Surgery,P00007837,Wedge resection of lung ( RLL / VATS ) ,general,D00001663,104,N,N,8A,Tuesday,4,September,130,108
+68450,4536,65,F,20.27786216,Obstetrics & Gynecology,Admission,34,3,28598,Obstetrics & Gynecology,P00004453,Excisional biopsy of vulva,general,D00002249,D104,N,N,TF2,Monday,1,March,30,94
+70548,4536,65,F,20.27786216,Obstetrics & Gynecology,Admission,35,3,28598,Obstetrics & Gynecology,P00002542,Radical vulvectomy,general,D00001937,101,Y,N,TF2,Monday,3,March,230,230
+168510,4548,70,M,21.81043828,Urology,Admission,72,2,6019,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E6,N,N,MDTF1,Monday,3,March,300,166
+225769,4564,85,F,20.29537158,Orthopedics,Admission,44,3,29476,Orthopedics,P00003801,"Intramedullary nailing, femur ( left ) ",spinal,D00019351,110,N,N,TF3,Tuesday,4,April,100,85
+209676,4573,87,M,24.57786715,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF2,Monday,3,March,200,115
+269801,4578,64,F,26.1452913,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Thursday,4,June,100,44
+197208,4584,69,F,20.71173119,Neurosurgery,Admission,55,2,30952,Neurosurgery,P00001315,"Coil embolization of aneurysm, neuroendovascular",general,D00010129,ANGIO,N,N,TF2,Friday,2,October,300,140
+87958,4605,52,F,33.50812641,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00004357,Mastoid obliteration ( right ) ,general,D00009480,503,N,N,8A,Friday,1,August,200,187
+169980,4613,71,F,31.85012399,Urology,Admission,72,2,7391,Urology,P00007698,Ureterolithotomy ( right / lower / flexible ureteroscopic ) ,general,D00014106,104,N,N,MDTF3,Wednesday,1,May,200,92
+132224,4662,46,F,19.26035503,Internal Medicine,Admission,85,2,6216,General Surgery,P00006664,Angioplasty,local,D00014097,OPTO1,N,N,etc,Thursday,3,June,100,65
+149783,4662,46,F,19.26035503,General Surgery,Day,65,2,30784,General Surgery,P00006664,Revision of aneurysm of arteriovenous fistula,local,D00014097,OPTO1,Y,N,etc,Friday,2,October,130,172
+141022,4676,71,F,26.52551261,Orthopedics,Admission,41,2,29158,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,106,N,N,TF1,Tuesday,1,August,230,146
+142201,4676,71,F,26.52551261,Orthopedics,Admission,41,2,29158,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) Manipulative arthrolysis under anesthesia (Bricement force),spinal,D00012919,106,Y,N,8A,Tuesday,2,August,230,151
+183791,4686,77,F,28.35776206,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Tuesday,2,August,100,45
+169289,4693,88,F,24.12317545,Orthopedics,Admission,44,2,29115,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion),general,D00013277,106,N,N,8A,Thursday,1,March,230,298
+90204,4710,86,F,21.56683432,Orthopedics,Admission,41,1,29112,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( left ) ",general,D00019350,105,N,N,TF3,Tuesday,5,July,130,100
+254355,4752,70,M,23.70042757,General Surgery,Admission,121,2,100617,General Surgery,P00007966,Single incision laparoscopic surgery - Laparoscopic cholecystectomy,general,D00011998,106,N,N,8A,Tuesday,2,November,100,68
+108175,4756,69,M,25.67638757,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Tuesday,2,April,100,35
+107056,4779,69,M,23.59812203,Ophthalmology,Admission,81,1,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)PE & PCL (Phacoemulsification & Posterior chamber lens implantation) ( right ) ",general,D00008857,501,N,N,8A,Monday,4,December,130,69
+173431,4807,73,M,26.43656456,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008797,501,N,N,TF2,Wednesday,1,May,100,87
+196530,4807,73,M,26.43656456,Ophthalmology,Day,81,1,30791,Ophthalmology,P00004971,Partial vitrectomy ( left ) ,MAC,D00008797,501,Y,N,TF5,Tuesday,5,December,100,38
+129876,4821,67,M,26.5648127,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00000902,Replacement of redo-valve ( mitral valve ) ,general,D00020684,202,N,N,8A,Friday,3,May,500,675
+88007,4844,82,F,37.98860687,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008857,501,N,N,TF4,Monday,4,October,100,27
+77936,4877,74,F,21.62185869,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF5,Thursday,3,November,100,27
+77937,4877,74,F,21.62185869,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Thursday,4,November,101,34
+164857,4901,68,F,24.97655441,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( left / with sentinel lymph node biopsy ) ,general,D00002196,208,N,N,TF3,Wednesday,5,January,130,96
+107589,4917,79,M,25.51212339,General Surgery,Admission,54,2,28655,General Surgery,P00008060,Laparoscopic totally extrapertitoneal inguinal hernia repair ( right ) Laparoscopic totally extrapertitoneal inguinal hernia repair ( right ) ,general,D00011591,109,N,N,TF2,Tuesday,2,December,130,103
+247388,4917,79,M,25.51212339,General Surgery,Admission,64,2,100610,General Surgery,P00006344,Repair of inguinal hernia ( left / open / direct / without prosthesis ) ,spinal,D00011589,105,N,N,TF4,Thursday,3,September,100,39
+142421,4924,64,F,18.81531541,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008336,502,N,N,TF5,Tuesday,3,September,100,44
+142422,4924,64,F,18.81531541,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008336,502,Y,N,TF4,Tuesday,4,September,100,30
+288896,4965,75,F,22.24644275,Orthopedics,Admission,41,2,100652,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,108,N,N,8A,Tuesday,2,July,200,117
+288960,4965,75,F,22.24644275,Orthopedics,Admission,41,2,100652,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,108,Y,N,8A,Tuesday,3,July,200,122
+99886,4977,74,F,23.70042757,Internal Medicine,Admission,85,2,6216,General Surgery,P00000562,"AVF (Arteriovenous fistula), radial-cephalic",local,D00014097,GSOOR,N,N,etc,Monday,5,October,100,80
+100720,4977,74,F,23.70042757,Ophthalmology,Day,81,4,30744,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF4,Friday,4,November,100,35
+109790,4977,74,F,23.70042757,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,501,Y,N,TF9,Monday,4,January,100,40
+264697,4983,79,F,25.50690193,Orthopedics,Admission,41,2,100648,Orthopedics,P00007807,Vertebroplasty,local,D00019768,106,Y,N,TF2,Monday,3,January,30,58
+259581,4992,51,F,23.21949188,Pediatric Orthopedics,Admission,5B,3,29472,Pediatric Orthopedics,P00007059,Removal of hardware,general,D00017116,1,N,N,8A,Friday,3,December,400,178
+62033,5002,68,F,22.3823515,General Surgery,Admission,64,2,9885,General Surgery,P00006959,Simple mastectomy ( right / with axillary lymph node dissection ) ,general,D00002196,203,N,N,8A,Thursday,3,January,130,102
+246905,5014,86,F,27.86551889,Orthopedics,Admission,41,3,100653,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,110,N,N,8A,Wednesday,3,September,200,156
+223600,5044,75,M,22.83805629,Cardiovascular Thoracic Surgery,Admission,74,2,5958,Cardiovascular Thoracic Surgery,P00007837,Wedge resection of lung ( RUL / VATS ) ,general,D00018132,104,N,N,8A,Tuesday,2,April,200,95
+106164,5058,74,F,23.46016485,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008857,502,N,N,TF1,Tuesday,2,July,100,31
+106165,5058,74,F,23.46016485,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008857,502,Y,N,TF1,Tuesday,3,July,100,36
+97627,5114,66,F,19.92838189,Internal Medicine,Admission,72,3,6087,Urology,P00004519,Nephroureterectomy ( right / open ) ,general,D00014097,104,N,N,TF2,Thursday,3,October,300,378
+238504,5124,82,M,21.6,Internal Medicine,Admission,121,2,6223,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,8A,Wednesday,4,July,100,55
+169207,5146,61,M,22.02919076,Pediatric Thoracic Surgery,Admission,PICU,2,8487,Pediatric Thoracic Surgery,P00000902,"Extracorporeal circulation and procedure auxiliary to open heartCardioplegiaReplacement of heart valveAngioplasty, pulmonary arteryResection of aneurysm",general,D00016297,4,N,N,8A,Tuesday,1,March,700,560
+261336,5226,77,F,20.86364617,General Surgery,Admission,NUGW2,1,9885,General Surgery,P00004259,Breast-conserving surgery ( right / with sentinel lymph node biopsy ) ,general,D00002208,109,N,N,TF1,Thursday,4,December,130,57
+264728,5226,77,F,20.86364617,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00000001,Axillary lymph node dissection ( right ) ,general,D00002208,203,Y,N,TF4,Friday,2,January,100,88
+276832,5251,68,F,19.22996878,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00006454,Replacement of heart valve,general,D00009712,202,N,N,8A,Thursday,2,April,500,303
+73458,5283,89,F,26.12992687,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Thursday,4,July,100,57
+73462,5283,89,F,26.12992687,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF4,Thursday,2,August,101,42
+62015,5291,50,F,20.9274673,Obstetrics & Gynecology,Admission,81,2,28601,Obstetrics & Gynecology,P00008135,Total hysterectomy ( single port total laparoscopy ) Salpingectomy ( bilateral / single port total laparoscopy ) Posterior colporrhaphy ( without mesh ) ,general,D00014522,102,N,N,TF3,Thursday,3,January,130,90
+197322,5293,78,F,44.375,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008897,502,N,N,TF6,Tuesday,3,January,100,51
+197323,5293,78,F,44.375,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008897,502,Y,N,TF1,Tuesday,4,January,100,48
+276185,5293,78,F,44.375,Orthopedics,Admission,41,2,100653,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion) ( left ) ,general,D00013283,106,N,N,8A,Monday,2,April,230,165
+153392,5333,80,F,21.22384869,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",general,D00008678,501,N,N,TF4,Wednesday,2,January,130,66
+137040,5336,63,M,24.93372049,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00002309,Excision of soft tissue mass,local,D00012526,OPTO2,N,N,etc,Wednesday,2,July,100,44
+172904,5336,63,M,24.93372049,Neurosurgery,Admission,45,2,6048,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010146,ANGIO,N,N,TF1,Tuesday,2,April,300,135
+117786,5338,73,F,21.05562092,Obstetrics & Gynecology,Admission,35,1,29028,Obstetrics & Gynecology,P00008135,Vaginal total hysterectomy with anterior and posterior Repair,general,D00014548,101,N,N,TF1,Friday,3,February,200,131
+242507,5342,68,F,18.03182872,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008879,502,N,N,TF2,Monday,2,March,100,39
+121430,5349,75,F,24.453125,Obstetrics & Gynecology,Admission,34,2,29032,Obstetrics & Gynecology,P00008135,Total hysterectomy ( vaginal ) Suspension of uterosacral ligament ( vaginal ) Posterior colporrhaphy ( without mesh ) Repair of cystocele ( without mesh ) ,general,D00014555,101,N,N,8A,Wednesday,3,March,300,211
+244787,5349,75,F,24.453125,Orthopedics,Admission,42,2,108683,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,108,N,N,TF2,Wednesday,1,September,200,110
+160729,5354,81,F,23.70042757,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00000902,Repair of heart valve,general,D00020694,202,N,N,TF1,Monday,5,December,500,309
+232210,5358,64,F,109.8901099,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF6,Thursday,5,July,100,35
+275293,5359,76,F,16.51248496,Internal Medicine,Admission,85,2,6216,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014099,OPTO1,N,N,etc,Thursday,1,April,100,77
+247689,5370,89,F,17.70956316,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,4,September,100,36
+269829,5398,78,F,20.74389523,General Surgery,Admission,65,2,100613,General Surgery,P00004070,"Ligation and stripping of varicose vein, great saphenous vein ( bilateral ) ",spinal,D00010407,103,N,N,8A,Monday,4,February,200,176
+80204,5422,60,F,21.30514176,Pediatric Thoracic Surgery,Admission,PICU,2,8487,Pediatric Thoracic Surgery,P00006257,Open heart annuloplasty of tricuspid valvePulmonary valve valvuloplastyMaze operation ( bilateral ) Repair of atrial septal defect ( patch closure / bioprosthesis ) ,general,D00016201,4,N,N,8A,Friday,5,June,600,480
+152719,5422,60,F,21.30514176,Pediatric Thoracic Surgery,Admission,PICU,4,8487,Pediatric Thoracic Surgery,P00000902,CardioplegiaExtracorporeal circulation auxiliary to open heart surgeryOpen heart valvuloplasty without replacement ( tricuspid valve / valve ) ,general,D00016201,4,Y,N,8A,Thursday,1,November,700,535
+252310,5425,48,M,23.40295769,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00006911,Septoturbinoplasty,general,D00010682,503,N,N,TF2,Friday,2,November,100,56
+84002,5434,57,F,25.5253177,Obstetrics & Gynecology,Admission,35,1,28601,Obstetrics & Gynecology,P00008135,Total hysterectomy ( multiport total laparoscopy ) Salpingo-oophorectomy ( left / multiport total laparoscopy ) Salpingectomy ( right / multiport total laparoscopy ) Pelvic adhesiolysis ( multiport total laparoscopy ) ,general,D00004294,102,N,N,8A,Friday,3,June,230,185
+287143,5470,78,M,20.63328761,Internal Medicine,Admission,85,2,100873,General Surgery,P00005688,"AVF (Arteriovenous fistula), radial-cephalic",local,D00021491,OPTO1,N,N,etc,Tuesday,5,June,100,60
+75012,5488,65,F,25.5367036,Orthopedics,Admission,41,2,28687,Orthopedics,P00005976,Release of cubital tunnel ( left ) ,general,D00007868,110,N,N,8A,Monday,3,April,200,104
+186617,5488,65,F,25.5367036,Orthopedics,Admission,44,2,29476,Orthopedics,P00005944,Release of A1 pulley ( right / 2nd ) ,local,D00013403,105,Y,N,TF3,Saturday,3,July,30,50
+268827,5488,65,F,25.5367036,Orthopedics,Admission,42,2,100647,Orthopedics,P00004910,Operation for de Quervain's disease ( left ) ,local,D00013405,105,Y,N,TF1,Monday,3,February,45,55
+209268,5499,68,F,27.21511605,Obstetrics & Gynecology,Admission,81,2,14171,Obstetrics & Gynecology,P00006798,Salpingo-oophorectomy ( bilateral / single port total laparoscopy ) Pelvic adhesiolysis ( single port total laparoscopy ) ,general,D00014577,101,N,N,TF2,Tuesday,1,January,200,71
+124099,5528,45,M,21.3319419,Plastic Surgery,Admission,65,1,11896,Plastic Surgery,P00000792,Bone shaving,general,D00012749,503,N,N,8A,Wednesday,2,April,200,134
+160594,5548,81,F,22.22684703,Orthopedics,Admission,41,2,29473,Orthopedics,P00005944,Release of A1 pulley ( right / 4th ) ,local,D00013403,110,N,N,TF4,Monday,5,December,100,39
+134096,5570,69,M,29.91220184,Cardiovascular Thoracic Surgery,Admission,RICU,3,31030,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve ( pulmonary valve / tissue valve ) Repair of heart valve ( tricuspid valve / annulus ) ,general,D00009725,203,N,N,TF1,Monday,3,June,500,563
+245059,5573,51,M,26.26436511,Orthopedics,Admission,44,2,100648,Orthopedics,P00008336,Wide excision of soft tissue,general,D00004793,108,N,N,TF2,Thursday,1,September,130,88
+85297,5588,65,F,27.40765728,Plastic Surgery,Admission,65,2,31008,Plastic Surgery,P00002601,Excision of soft tissue mass,local,D00004131,503,N,N,TF3,Monday,4,July,130,60
+269669,5634,62,F,23.01700475,Internal Medicine,Admission,85,2,100873,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014098,OPTO1,N,N,etc,Thursday,1,March,130,88
+290147,5634,62,F,23.01700475,Internal Medicine,Admission,85,2,100873,General Surgery,P00007402,Revision of arteriovenous shunt for renal dialysis,local,D00014097,OPTO1,Y,N,etc,Friday,3,July,100,89
+239353,5640,84,F,23.70042757,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"PE (Phacoemulsification), small incision ( right ) Lensectomy with ocutome ( right ) Vitrectomy, pars planar ( right ) Intraocular lens scleral fixation ( right ) ",general,D00008676,501,N,N,8A,Tuesday,2,October,130,102
+102869,5653,82,M,27.36722714,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,etc,Monday,3,January,100,36
+242024,5694,77,F,25.01524307,Cardiovascular Thoracic Surgery,Admission,74,2,6158,Cardiovascular Thoracic Surgery,P00006888,Robot-assisted lung surgery ( right ) ,general,D00011002,E5,N,N,TF1,Thursday,1,September,300,206
+127604,5696,58,M,28.30972836,Orthopedics,Admission,41,2,29476,Orthopedics,P00002600,Excision of soft tissue mass,general,D00013518,110,N,N,TF2,Friday,1,May,100,88
+125367,5708,68,F,22.50912423,General Surgery,Admission,52,2,28649,General Surgery,P00004070,"Ligation and stripping of varicose vein, great saphenous vein ( bilateral ) ",general,D00010407,105,N,N,TF1,Monday,3,April,100,81
+120676,5722,80,M,30.08413819,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF4,Monday,5,April,200,90
+157207,5736,54,M,33.85221252,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00003986,Laryngomicrosurgery (LMS) ( right ) Tonsillectomy without adenoidectomy,general,D00010718,204,N,N,TF2,Wednesday,3,December,100,106
+64340,5781,97,F,19.54081633,Ophthalmology,Day,81,2,27962,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF6,Tuesday,4,March,100,65
+64341,5781,97,F,19.54081633,Ophthalmology,Day,81,2,27962,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF1,Tuesday,1,April,101,63
+268350,5804,75,F,18.54939941,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( right / with sentinel lymph node biopsy ) ,general,D00002196,109,N,N,TF2,Thursday,2,February,130,66
+88405,5810,75,F,26.59467368,General Surgery,Admission,NUGW2,1,28650,General Surgery,P00007536,Total thyroidectomy ( CND(bilateral) / MRND(bilateral) / open ) ,general,D00005901,105,N,N,TF2,Friday,4,July,400,225
+268533,5826,70,F,18.9459038,Cardiovascular Thoracic Surgery,Admission,RICU,3,31030,Cardiovascular Thoracic Surgery,P00000902,Replacement of heart valve ( aortic valve / tissue valve ) Open heart annuloplasty of tricuspid valveRepair of heart valve ( tricuspid valve / valve ) ,general,D00009848,202,N,N,TF1,Friday,2,February,500,390
+230400,5858,74,M,20.76124567,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,MAC,D00008879,502,N,N,TF8,Tuesday,2,October,100,46
+230401,5858,74,M,20.76124567,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008879,502,Y,N,TF7,Tuesday,3,October,100,46
+219803,5860,79,F,24.0656511,Plastic Surgery,Outpatient,,2,12472,Plastic Surgery,P00000748,"Blepharoplasty, upper eyelid ( bilateral ) ",local,D00008314,OPTO2,N,N,etc,Thursday,4,March,100,79
+131261,5864,73,M,15.26265184,General Surgery,Admission,52,2,28652,General Surgery,P00007417,Thyroid lobectomy ( left / open / CND(left) ) ,general,D00005901,504,N,N,TF2,Monday,5,May,100,81
+118289,5877,86,F,21.11654303,Orthopedics,Admission,42,1,29110,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( left ) ",general,D00019028,105,N,N,MDTF1,Monday,4,February,300,337
+246016,5877,86,F,21.11654303,Orthopedics,Admission,44,2,108681,Orthopedics,P00004779,"Open reduction and internal fixation, humerus ( right ) ",general,D00018885,110,Y,Y,MDTF1,Monday,2,September,300,316
+269951,5903,71,F,19.8557631,General Surgery,Admission,51,2,108644,General Surgery,P00007447,TLDG (Totally laparoscopic distal gastrectomy) with Billroth II ( with standard lymph node dissection ) ,general,D00001347,105,N,N,MDTF1,Tuesday,4,February,300,194
+82651,5921,88,F,23.33999347,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,etc,Tuesday,5,October,100,32
+243915,5922,71,F,26.26430801,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF6,Tuesday,5,March,100,36
+182521,5932,45,M,27.05399913,Urology,Admission,72,2,5968,Urology,P00007733,"Urethroplasty for stricture, perineal",general,D00014236,103,N,N,TF3,Tuesday,5,June,300,211
+200461,5932,45,M,27.05399913,Urology,Admission,72,1,5968,Urology,P00007733,"Urethroplasty for stricture, anterior urethral",general,D00014236,103,Y,N,8A,Wednesday,1,November,120,91
+214004,5947,68,F,22.99167141,Cardiovascular Thoracic Surgery,Admission,74,2,5958,Cardiovascular Thoracic Surgery,P00007837,VATS (video-assisted thoracic surgery) RLL wedge resection,general,D00001663,104,N,N,8A,Thursday,1,February,130,85
+133429,5954,47,F,14.16690347,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00008130,Total mastectomy ( bilateral / with sentinel lymph node biopsy ) ,general,D00002196,504,N,N,TF3,Wednesday,2,June,130,108
+144892,5966,68,F,22.01299021,Ophthalmology,Admission,81,2,5954,Ophthalmology,P00004971,"Excision of eyelid lesion, malignant <50% ( RLL ) Reconstruction of eyelid with skin flap ( right ) Intubation of nasolacrimal duct ( right ) ",general,D00001884,502,N,N,TF1,Wednesday,2,September,130,145
+61158,5975,87,F,21.31834156,Obstetrics & Gynecology,Admission,34,3,28601,Obstetrics & Gynecology,P00001790,Diagnostic laparoscopySalpingo-oophorectomy ( left / single port total laparoscopy ) ,general,D00003011,101,N,Y,TF3,Friday,2,January,30,96
+104820,5977,61,M,23.52219889,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008754,502,N,N,etc,Monday,5,January,100,121
+80859,5978,87,M,23.70042757,Cardiovascular Thoracic Surgery,Admission,RICU,3,5891,Cardiovascular Thoracic Surgery,P00000232,Off pump CABG (coronary artery bypass graft) surgery (two or more vessel),general,D00009570,202,N,N,8A,Tuesday,5,May,500,438
+182164,5978,87,M,23.70042757,Urology,Admission,84,3,5887,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,104,N,N,TF1,Wednesday,4,June,100,36
+237876,5978,87,M,23.70042757,Urology,Admission,72,3,100880,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00003034,104,Y,N,TF6,Wednesday,2,August,100,78
+162766,5989,73,F,16.35971034,Internal Medicine,Admission,124,3,29083,General Surgery,P00008175,Transverse loop colostomy,general,D00011697,503,N,Y,etc,Sunday,3,January,200,97
+189894,6005,70,M,24.4434328,Cardiovascular Thoracic Surgery,Admission,71,2,6084,Cardiovascular Thoracic Surgery,P00006888,VATS (video-assisted thoracic surgery) RLL segmentectomy,general,D00001663,103,N,N,8A,Thursday,1,August,230,215
+252200,6005,70,M,24.4434328,Cardiovascular Thoracic Surgery,Admission,71,2,6084,Cardiovascular Thoracic Surgery,P00006888,VATS (video-assisted thoracic surgery) LLL segmentectomy,general,D00001663,104,Y,N,8A,Monday,4,October,230,150
+105068,6022,75,F,24.60426034,Obstetrics & Gynecology,Admission,34,3,28599,Obstetrics & Gynecology,P00002818,"Radical hysterectomy ( laparotomy ) Salpingo-oophorectomy ( bilateral / laparotomy ) Omentectomy ( laparotomy ) Splenectomy ( total / open ) Appendectomy ( open ) Pelvic adhesiolysis ( laparotomy ) Intraoperative washing cytology of pelvic and abdominal cavity ( laparotomy ) Small bowel segmental resection ( open / multiple ) Low anterior resection ( open / with lymph node dissection ) Ureteroneocystostomy, simple ( left ) Pelvic lymph node dissection ( bilateral / laparotomy ) Paraaortic lymph node dissection ( open / total ) ",general,D00002404,104,Y,N,TF1,Friday,3,November,500,522
+158680,6022,75,F,24.60426034,Obstetrics & Gynecology,Admission,35,3,29033,Obstetrics & Gynecology,P00001645,"Mass excision, peritoneal tissueExcision of abdominal wall mass with reconstructionExcision of mesenteric tumorExcision of perirectal massParaaortic lymph node dissection ( open / total ) Axillary lymph node dissection ( right ) ",general,D00002107,101,Y,N,TF2,Friday,2,December,600,465
+193747,6035,82,F,23.69383127,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF8,Monday,5,December,100,34
+193748,6035,82,F,23.69383127,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF10,Monday,2,January,100,39
+59543,6059,71,F,20.25390625,General Surgery,Admission,64,2,28651,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,106,N,N,TF3,Wednesday,1,January,100,75
+160159,6065,87,F,23.47632386,Orthopedics,Admission,42,2,29112,Orthopedics,P00007444,TKRA  ( right ) ,spinal,D00012919,106,N,N,TF1,Tuesday,5,December,200,141
+96946,6067,84,F,21.68601541,Ophthalmology,Day,81,1,30968,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF7,Tuesday,1,December,100,36
+106944,6067,84,F,21.68601541,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,501,Y,N,TF8,Tuesday,3,December,100,36
+143649,6067,84,F,21.68601541,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00008130,Total mastectomy ( right / with axillary lymph node dissection ) ,general,D00002208,203,N,N,8A,Thursday,3,August,130,84
+100983,6068,68,M,23.02485207,General Surgery,Admission,65,2,28652,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,109,N,Y,TF2,Wednesday,4,October,30,63
+73654,6072,89,F,22.87455206,Urology,Admission,81,3,7391,Urology,P00001590,Cystolitholapaxy,general,D00014110,103,N,N,MDTF2,Thursday,4,April,200,96
+69121,6103,76,F,26.44282114,Neurosurgery,Admission,55,2,6086,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010162,ANGIO,N,N,8A30,Tuesday,2,March,300,122
+63240,6105,57,M,24.8204573,Orthopedics,Admission,44,1,28695,Orthopedics,P00005166,"Arthrodesis (fusion), ankle joint ( right ) Osteotomy of metatarsals ( right / 1st ) ",spinal,D00012940,110,N,N,TF4,Wednesday,5,January,230,230
+110317,6105,57,M,24.8204573,Orthopedics,Admission,44,1,29114,Orthopedics,P00006070,Removal of hardware,spinal,D00012928,108,Y,N,TF2,Wednesday,1,January,130,127
+221542,6136,57,M,18.03549107,Pediatric Thoracic Surgery,Admission,4B,2,12606,Pediatric Thoracic Surgery,P00000944,Change of pacemaker generator,general,D00016212,3,N,N,8A,Wednesday,5,March,300,138
+74731,6140,68,F,25.64644832,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002515,Excision of neck mass,general,D00017611,204,N,N,8A,Friday,3,May,130,55
+194798,6143,68,F,23.53556074,Orthopedics,Admission,42,1,29110,Orthopedics,P00000397,"Arthroscopic repair of ruptured rotator cuff, complex, shoulder ( right ) ",general,D00021742,105,N,N,TF1,Wednesday,4,September,130,79
+295578,6168,76,F,32.03073636,Urology,Admission,72,2,6087,Urology,P00004507,Nephrectomy ( right / radical / robotic ) ,general,D00014171,104,N,N,MD,Wednesday,2,September,300,106
+285042,6173,72,F,25.26780401,Orthopedics,Admission,44,2,108681,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,110,N,N,TF1,Wednesday,4,June,200,132
+223045,6209,83,M,22.38644083,General Surgery,Admission,121,2,100618,General Surgery,P00007670,Transanal local excision,general,D00001433,106,N,N,TF2,Thursday,1,April,300,136
+146245,6225,74,M,24.19659684,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00002463,Excision of other site mass,general,D00009540,503,N,N,TF4,Wednesday,3,September,100,71
+171507,6247,76,M,25.69129813,Neurosurgery,Admission,121,3,6086,Neurosurgery,P00008375,Other neuroendovascular embolization,general,D00009990,ANGIO,Y,N,8A,Tuesday,4,March,300,113
+199524,6271,75,F,29.17776698,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Wednesday,5,September,100,36
+199525,6271,75,F,29.17776698,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF2,Wednesday,1,October,100,31
+181818,6317,84,M,21.12271423,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008872,501,N,N,TF2,Thursday,4,July,100,21
+182024,6355,74,M,25.93318672,Cardiovascular Thoracic Surgery,Admission,RICU,2,6248,Cardiovascular Thoracic Surgery,P00000902,Cardiac redo operationOpen heart annuloplasty of tricuspid valve,general,D00009705,203,N,Y,MD,Tuesday,2,June,600,350
+224376,6363,83,F,22.85035189,Obstetrics & Gynecology,Admission,35,2,14171,Obstetrics & Gynecology,P00006798,Salpingo-oophorectomy ( bilateral / single port total laparoscopy ) ,general,D00014577,102,N,N,TF2,Wednesday,3,April,100,55
+260589,6409,70,F,20.73961512,General Surgery,Admission,NUGW2,2,29457,General Surgery,P00007536,Total thyroidectomy ( open ) ,general,D00005946,103,N,N,MD,Monday,4,December,200,114
+137161,6414,69,M,25.03774604,Orthopedics,Day,,2,29477,Orthopedics,P00001092,"Closed reduction of dislocation, IP (interphalangeal) joint, finger ( left / 1st ) ",local,D00019164,108,N,Y,etc,Friday,1,July,30,125
+296481,6417,68,M,25.78571184,General Surgery,Admission,65,2,100616,General Surgery,P00006887,Laparoscopic segmentectomy of liver,general,D00001455,108,N,N,TF1,Thursday,1,September,300,249
+257963,6449,84,F,23.05226824,General Surgery,Admission,121,2,100609,General Surgery,P00002818,Exploratory laparotomy ( R/O the other disease ) Small bowel segmental resection ( open / single ) ,general,D00011697,104,N,Y,etc,Wednesday,1,December,300,165
+243036,6463,76,M,23.70042757,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) PE & PCL (Phacoemulsification & Posterior chamber lens implantation) ( right ) ",general,D00008857,501,N,N,8A,Wednesday,2,November,130,80
+88783,6469,74,M,28.36042967,Cardiovascular Thoracic Surgery,Admission,74,2,6158,Cardiovascular Thoracic Surgery,P00007415,"Robotic mass excision, mediastinum",general,D00011011,E5,N,N,8A,Thursday,3,September,300,195
+178682,6473,53,M,27.52983824,General Surgery,Admission,45,2,29461,General Surgery,P00004074,"Ligation and stripping of varicose vein, great saphenous vein ( left ) ",spinal,D00010407,103,N,N,TF1,Monday,3,May,130,109
+79399,6485,91,F,25.10956903,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Thursday,2,June,100,56
+79401,6485,91,F,25.10956903,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,501,Y,N,8A30,Wednesday,4,June,100,50
+188288,6504,80,M,27.0240457,Urology,Admission,121,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF1,Monday,1,October,100,135
+238982,6516,71,F,23.70042757,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) PE & PCL (Phacoemulsification & Posterior chamber lens implantation) ( right ) ",general,D00008857,501,N,N,TF1,Wednesday,2,November,130,75
+119907,6523,96,F,25.7300199,Orthopedics,Admission,42,2,29114,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( right ) ",spinal,D00019341,106,N,N,TF2,Wednesday,2,March,130,116
+138160,6557,62,M,27.27446632,Internal Medicine,Admission,85,2,6216,General Surgery,P00006664,Revision of arteriovenous shunt for renal dialysis,local,D00010194,OPTO1,N,N,etc,Thursday,4,July,100,48
+173047,6557,62,M,27.27446632,Internal Medicine,Admission,85,2,29078,General Surgery,P00006664,Revision of arteriovenous fistula for renal dialysisRevision of arteriovenous fistula for renal dialysis,local,D00020713,OPTO1,Y,Y,etc,Monday,5,March,100,60
+233226,6557,62,M,27.27446632,General Surgery,Admission,65,2,100614,General Surgery,P00007402,"Thrombectomy, arteriovenous fistulaThrombectomy, arteriovenous fistula",local,D00020715,208,Y,Y,etc,Saturday,2,June,200,140
+239630,6557,62,M,27.27446632,Orthopedics,Admission,45,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,110,Y,N,TF2,Saturday,3,July,100,50
+239937,6557,62,M,27.27446632,Orthopedics,Admission,45,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,108,Y,Y,etc,Monday,4,July,30,34
+240066,6557,62,M,27.27446632,Orthopedics,Admission,42,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,108,Y,N,etc,Wednesday,4,July,30,38
+240569,6557,62,M,27.27446632,Orthopedics,Admission,44,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,208,Y,N,etc,Friday,4,July,30,22
+240791,6557,62,M,27.27446632,Orthopedics,Admission,44,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,110,Y,N,etc,Monday,1,August,30,22
+241157,6557,62,M,27.27446632,Orthopedics,Admission,44,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,108,Y,N,etc,Wednesday,1,August,30,30
+241580,6557,62,M,27.27446632,Orthopedics,Admission,44,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00005977,110,Y,N,etc,Friday,1,August,30,77
+241822,6557,62,M,27.27446632,Orthopedics,Admission,44,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,110,Y,N,etc,Monday,2,August,30,42
+242200,6557,62,M,27.27446632,Orthopedics,Admission,41,3,100668,Orthopedics,P00001631,Ray amputation of foot ( right / 3rd ) ,nerve block,D00010218,106,Y,Y,TF4,Wednesday,2,August,100,69
+242588,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,110,Y,N,etc,Friday,2,August,30,25
+242847,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,110,Y,N,etc,Monday,3,August,30,33
+243559,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010194,105,Y,N,etc,Friday,3,August,30,37
+243806,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00006005,108,Y,N,etc,Monday,4,August,30,33
+244420,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100668,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00005977,108,Y,N,etc,Friday,4,August,30,30
+244796,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100652,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00005977,105,Y,N,etc,Monday,5,August,30,35
+245642,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100652,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010218,106,Y,Y,etc,Thursday,1,September,30,26
+245820,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100652,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010218,108,Y,N,etc,Monday,2,September,30,20
+246286,6557,62,M,27.27446632,Orthopedics,Admission,41,2,100652,Orthopedics,P00004669,Occlusive dressing technique (less than 25cm),local,D00010218,108,N,N,etc,Friday,2,September,30,25
+246486,6557,62,M,27.27446632,Orthopedics,Admission,41,3,12472,Plastic Surgery,P00007099,Split thickness skin graft (small),general,D00005977,503,N,N,TF4,Wednesday,3,September,200,64
+256369,6575,88,F,25.82644628,Orthopedics,Admission,41,3,100653,Orthopedics,P00003801,"Closed reduction and internal fixation, femur ( right ) ",spinal,D00019357,110,N,N,MDTF1,Monday,4,November,130,131
+170011,6642,61,F,18.71994356,General Surgery,Admission,54,2,29459,General Surgery,P00008143,Extended right hemihepatectomy ( open ) ,general,D00003016,109,N,N,TF2,Wednesday,2,March,400,280
+173421,6643,78,F,22.21851694,General Surgery,Admission,121,3,9885,General Surgery,P00008130,Total mastectomy ( left / with sentinel lymph node biopsy ) ,nerve block,D00003573,203,N,N,TF1,Friday,1,April,130,139
+272826,6643,78,F,22.21851694,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Thursday,1,June,100,40
+272827,6643,78,F,22.21851694,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF2,Thursday,3,June,100,31
+190405,6685,75,M,20.6196536,General Surgery,Admission,52,2,6075,General Surgery,P00002199,Endovascular treatment of varicose veinEndovascular treatment of varicose vein,local,D00010407,OPTO1,N,N,etc,Tuesday,2,August,100,90
+80375,6687,83,F,21.24160172,Ophthalmology,Day,81,2,5954,Ophthalmology,P00006313,Repair of ectropion by lateral tarsal strip ( RLL ) Conjunctivoplasty ( right ) Medial spindle operation ( RLL ) Punctoplasty ( RLL ) ,MAC,D00008344,204,N,N,TF1,Wednesday,3,June,100,58
+100400,6688,81,F,23.9500759,Neurosurgery,Admission,45,2,6086,Neurosurgery,P00002043,Embolization of dural AVF (arteriovenous fistula),general,D00010127,ANGIO,N,Y,TF4,Friday,3,October,400,130
+282426,6689,75,F,25.73825417,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,N,N,etc,Tuesday,2,July,100,50
+178856,6701,87,M,23.93101539,Urology,Admission,102,3,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,103,N,N,TF1,Thursday,2,June,100,46
+184966,6701,87,M,23.93101539,Urology,Admission,84,3,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,504,Y,N,TF1,Friday,3,July,100,46
+216011,6706,81,F,21.09540534,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,2,May,100,46
+286329,6710,62,F,22.472758,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00002517,Excision of nevus,local,D00004201,OPTO2,N,N,8A30,Monday,1,July,30,50
+289119,6711,69,F,21.58822713,Otolaryngology,Admission,102,3,6154,Otolaryngology,P00002172,Endoscopic sinus surgery ( left ) ,general,D00017517,503,N,N,MD,Wednesday,3,July,100,73
+143257,6717,76,M,23.25802093,General Surgery,Admission,64,2,29077,General Surgery,P00004052,Left hemicolectomy ( open / with lymph node dissection ) ,general,D00001405,208,N,N,TF1,Tuesday,3,August,200,137
+230575,6719,83,F,25.37485582,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,N,N,8A,Monday,3,July,100,47
+230576,6719,83,F,25.37485582,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,Y,N,8A,Monday,4,July,100,44
+127803,6764,85,F,21.52249135,Ophthalmology,Day,81,3,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Thursday,4,October,100,31
+84171,6787,67,F,21.78649237,Internal Medicine,Admission,85,2,6075,General Surgery,P00006664,Closure of arteriovenous fistula by division,local,D00021491,GSOOR,N,N,etc,Monday,4,June,100,80
+208510,6787,67,F,21.78649237,Pediatric Urology,Admission,6B,2,6259,Pediatric Urology,P00004267,Macroplastique injection for VUR (vesicoureteral reflux) ( right ) ,general,D00014017,7,N,N,TF5,Monday,1,February,100,41
+223178,6812,79,M,19.03082591,Urology,Admission,72,1,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,N,N,8A,Tuesday,4,April,300,132
+84559,6813,87,F,24.23822715,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF1,Thursday,2,July,100,40
+84356,6815,68,M,21.98802563,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00002172,Endoscopic sinus surgery ( bilateral ) Septoplasty,general,D00010666,204,N,N,8A30,Monday,5,July,200,155
+173108,6816,70,F,24.44456737,Cardiovascular Thoracic Surgery,Admission,74,2,5958,Cardiovascular Thoracic Surgery,P00004217,VATS (video-assisted thoracic surgery) RULobectomy,general,D00011002,104,N,N,8A,Wednesday,1,April,300,195
+83340,6821,75,F,22.46393996,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Tuesday,5,August,100,39
+94890,6821,75,F,22.46393996,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF3,Wednesday,5,October,100,40
+75783,6842,84,F,20.9544853,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00007225,Injection laryngoplasty ( left ) ,general,D00017813,504,N,N,TF4,Monday,5,May,100,67
+162800,6842,84,F,20.9544853,Orthopedics,Admission,42,3,29572,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( left ) ",nerve block,D00019028,108,N,N,MD,Tuesday,3,January,130,155
+159908,6875,85,F,33.23821546,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008862,501,N,N,TF4,Thursday,4,March,100,33
+179317,6875,85,F,33.23821546,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008762,501,Y,Y,TF6,Thursday,3,May,100,23
+191955,6939,67,M,25.26397854,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Thursday,4,January,100,26
+191956,6939,67,M,25.26397854,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF9,Thursday,1,February,100,28
+97585,6989,84,M,18.00184227,General Surgery,Admission,52,3,28654,General Surgery,P00006344,Repair of inguinal hernia ( Bilateral / open / direct / with prosthesis ) ,general,D00011580,107,N,N,TF1,Thursday,4,September,100,90
+135878,6990,44,M,35.67955042,General Surgery,Admission,51,2,29079,General Surgery,P00002047,,general,D00010335,ANGIO,N,N,8A30,Friday,4,June,130,128
+275740,6993,86,M,20.21408655,Internal Medicine,Admission,85,3,29474,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( left ) ",general,D00019350,108,N,N,TF2,Wednesday,1,April,130,132
+242869,7012,79,F,24.84252317,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( left / with sentinel lymph node biopsy ) ,general,D00002214,208,N,N,8A,Tuesday,3,August,130,116
+256446,7038,92,M,28.30599506,Orthopedics,Admission,41,2,108683,Orthopedics,P00001034,"Closed reduction and internal fixation with multiple pinning, femur ( right ) ",general,D00019350,108,Y,Y,etc,Saturday,3,November,130,119
+85774,7041,89,M,29.9014373,General Surgery,Admission,64,2,28655,General Surgery,P00001885,Distal pancreatectomy,general,D00001511,106,N,N,TF2,Tuesday,1,July,300,205
+133455,7047,82,M,25.07572537,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve ( aortic valve / tissue valve ) ,general,D00009709,202,N,N,8A,Wednesday,2,June,500,396
+118488,7062,77,F,24.13601606,Obstetrics & Gynecology,Admission,35,2,29028,Obstetrics & Gynecology,P00003648,Insertion of TOT (transobturator tape),general,D00014258,101,N,N,8A,Wednesday,4,February,30,74
+61430,7063,58,F,25.0633598,Ophthalmology,Admission,81,2,27962,Ophthalmology,P00005407,,general,D00008676,502,N,N,TF6,Thursday,4,January,100,60
+193475,7088,93,F,24.83555406,Orthopedics,Admission,42,3,29572,Orthopedics,P00001031,"Open reduction and internal fixation with compression hip screw, femur ( right ) ",general,D00019351,105,Y,N,etc,Monday,2,September,200,133
+243311,7088,93,F,24.83555406,Internal Medicine,Admission,41,3,108681,Orthopedics,P00004790,"Open reduction and internal fixation, tibia ( right ) ",spinal,D00019477,105,Y,N,MD,Tuesday,4,August,100,66
+142733,7092,73,F,23.54536489,Otolaryngology,Day,81,2,6194,Otolaryngology,P00007664,Type I tympanoplasty ( right / endaural ) ,MAC,D00009406,503,N,N,TF1,Friday,1,September,130,102
+169817,7092,73,F,23.54536489,Otolaryngology,Admission,102,2,5956,Otolaryngology,P00007664,Revision of tympanoplasty ( right ) ,general,D00009406,503,Y,N,TF1,Friday,2,March,300,152
+214603,7105,79,F,23.71640082,Orthopedics,Admission,42,2,29115,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,106,N,N,TF1,Tuesday,2,February,200,151
+211343,7114,86,M,25.390625,Cardiovascular Thoracic Surgery,Admission,RICU,3,5891,Cardiovascular Thoracic Surgery,P00000232,Off pump CABG (coronary artery bypass graft) surgery (two or more vessel),general,D00009625,202,N,N,8A,Monday,3,January,500,416
+98079,7120,66,F,25.00940593,Urology,Admission,72,1,6087,Urology,P00004507,Nephrectomy ( left / partial / open ) ,general,D00014171,104,N,N,8A,Monday,4,October,300,173
+166821,7120,66,F,25.00940593,General Surgery,Admission,NUGW2,2,29078,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy ) ,general,D00003573,504,N,N,8A,Wednesday,2,February,130,104
+73951,7152,86,M,26.48648628,Orthopedics,Admission,121,3,29158,Orthopedics,P00000397,"Arthroscopic repair of ruptured rotator cuff, complex, shoulder ( right ) ",general,D00018952,105,N,N,8A,Friday,2,April,130,95
+249699,7191,81,M,26.96327479,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014286,103,N,N,TF5,Monday,4,February,100,75
+102274,7194,70,F,18.80657138,General Surgery,Admission,NUGW2,3,9885,General Surgery,P00004259,Breast-conserving surgery ( left / with sentinel lymph node biopsy ) ,general,D00002196,106,N,N,TF2,Friday,5,November,130,84
+198319,7269,68,F,23.74389237,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy ) ,general,D00002196,106,N,N,TF1,Friday,2,October,130,96
+120389,7278,77,F,20.11656377,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF5,Thursday,3,November,100,30
+150317,7278,77,F,20.11656377,Ophthalmology,Day,81,2,30968,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF2,Thursday,1,November,100,36
+86382,7286,44,M,30.86745346,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002172,Endoscopic sinus surgery ( bilateral ) ,general,D00010660,204,N,N,TF3,Thursday,1,August,130,93
+214970,7300,60,F,19.38340373,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007664,Revision of tympanoplasty ( right ) ,general,D00009373,503,N,N,TF1,Thursday,4,May,230,198
+79330,7302,69,M,24.49521477,Urology,Admission,72,3,15127,Urology,P00001590,Cystoscopic stone removal,general,D00014109,103,N,N,TF2,Monday,4,May,100,52
+249872,7356,85,F,25.30801509,General Surgery,Admission,51,3,100613,General Surgery,P00006423,Incisional hernia repair ( open ) ,general,D00011604,110,N,N,TF2,Thursday,1,October,100,77
+156449,7378,46,M,29.77651504,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00007099,Split thickness skin graft,general,D00012717,503,N,N,TF2,Monday,1,December,130,46
+81522,7402,91,F,26.48068874,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF6,Monday,2,July,100,35
+81523,7402,91,F,26.48068874,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,local,D00008676,502,Y,N,8A,Monday,4,July,101,45
+86184,7433,88,M,19.51837252,Urology,Admission,72,3,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,103,N,N,TF1,Thursday,3,July,100,55
+90072,7433,88,M,19.51837252,Urology,Admission,72,2,6019,Urology,P00005635,Radical cystectomy ( open / ileal conduit ) ,general,D00002593,103,Y,N,8A,Thursday,3,August,500,291
+94293,7433,88,M,19.51837252,Urology,Admission,72,3,28652,General Surgery,P00002818,"Small bowel segmental resection ( open / single ) Adhesiolysis, band (bandlysis)",general,D00002593,107,N,N,TF3,Thursday,5,August,200,182
+146608,7433,88,M,19.51837252,Urology,Admission,72,2,7391,Urology,P00007718,"Ureterotomy, percutaneous using established percutaneous nephrostomy ( left ) ",general,D00014004,104,N,N,MD,Wednesday,1,November,200,172
+237212,7435,77,F,35.89652257,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)",general,D00008797,501,N,N,TF1,Monday,2,July,130,79
+83878,7444,85,F,21.484375,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,5,August,100,40
+89901,7450,86,F,30.34217514,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,4,November,100,33
+101110,7450,86,F,30.34217514,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,8A,Thursday,1,December,100,45
+182698,7472,74,F,28.22642469,Orthopedics,Admission,42,3,29476,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,110,N,N,TF2,Wednesday,3,June,200,126
+183691,7472,74,F,28.22642469,Orthopedics,Admission,42,3,29476,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,110,Y,N,TF2,Wednesday,4,June,200,137
+147825,7481,77,M,25.2246054,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Thursday,1,March,100,30
+289705,7492,71,F,26.37527774,Urology,Admission,42,2,5968,Urology,P00007370,Tension free vaginal tape operation,MAC,D00014256,103,N,N,8A,Tuesday,2,August,100,62
+185429,7513,82,F,25.3240444,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF8,Tuesday,3,August,100,47
+185430,7513,82,F,25.3240444,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Tuesday,3,September,100,43
+287964,7524,77,F,17.75383304,Internal Medicine,Admission,85,3,108651,General Surgery,P00003941,Laparoscopic insertion of CAPD (Continuous ambulatory peritoneal dialysis) catheter,general,D00014098,208,N,N,MD,Monday,1,July,130,75
+73136,7533,76,F,29.09428234,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00002172,Endoscopic sinus surgery ( right ) ,general,D00010666,504,N,N,TF1,Thursday,2,April,100,85
+125942,7535,83,M,26.33937263,Ophthalmology,Admission,81,1,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",MAC,D00008810,501,N,N,8A,Thursday,4,June,130,62
+263180,7586,56,M,20.42476733,General Surgery,Admission,52,3,100620,General Surgery,P00006229,Renal transplantation ( left ) ,general,D00014097,105,N,N,TF2,Wednesday,1,January,400,228
+178971,7612,57,F,18.32887694,General Surgery,Admission,64,2,100873,General Surgery,P00006664,Revision of arteriovenous fistula for renal dialysis,local,D00014097,OPTO1,N,N,etc,Friday,3,May,100,202
+182660,7612,57,F,18.32887694,General Surgery,Admission,,2,100873,General Surgery,P00006169,Removal of permanent catheter,local,D00014097,OPTO1,Y,N,etc,Thursday,3,June,30,40
+231978,7612,57,F,18.32887694,General Surgery,Admission,71,2,100609,General Surgery,P00006229,Renal transplantation ( right ) ,general,D00014097,105,Y,N,etc,Friday,1,June,400,351
+260597,7612,57,F,18.32887694,Internal Medicine,Admission,85,2,29457,General Surgery,P00007182,Subtotal parathyroidectomy ( bilateral ) ,general,D00014125,3,N,N,MD,Friday,4,December,230,217
+167412,7632,88,M,20.99569423,General Surgery,Admission,45,3,29458,General Surgery,P00006344,Repair of inguinal hernia ( Bilateral / open / indirect / without prosthesis ) ,spinal,D00011589,204,N,N,TF2,Monday,3,February,100,86
+246753,7633,69,F,25.48415614,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Thursday,1,November,100,28
+269630,7633,69,F,25.48415614,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00006257,Repair of heart valve,general,D00016242,202,N,N,8A,Friday,3,February,500,322
+150857,7681,89,F,23.70042757,General Surgery,Admission,65,3,29079,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,503,N,N,TF1,Thursday,3,October,100,64
+198122,7704,80,M,24.75975514,General Surgery,Admission,51,3,29078,General Surgery,P00003347,Incision and drainage of abscess,spinal,D00011748,107,N,Y,etc,Tuesday,2,October,100,21
+62273,7720,74,F,19.12977447,General Surgery,Admission,65,2,6036,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,107,N,N,TF2,Tuesday,4,January,100,55
+263418,7743,84,F,19.60263294,General Surgery,Admission,65,2,100614,General Surgery,P00007559,Transanal local excision,spinal,D00010430,110,N,N,TF5,Thursday,1,January,100,76
+114157,7754,70,F,30.078125,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00000732,Blepharoplasty ( BUL ) ,local,D00008294,GSOOR,N,N,etc,Friday,4,January,100,105
+173936,7754,70,F,30.078125,Neurosurgery,Admission,45,2,6086,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010133,ANGIO,N,N,8A,Tuesday,3,April,300,130
+270395,7758,91,F,26.55711206,General Surgery,Admission,54,2,9885,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy & axillary lymph node dissection ) ,general,D00002208,7,N,N,TF2,Thursday,4,February,130,125
+141515,7785,64,M,23.99945917,Neurosurgery,Admission,55,2,99429,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010122,ANGIO,N,N,TF1,Friday,2,August,300,115
+265042,7817,57,F,18.98392338,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00006450,Replacement of aorta,general,D00010244,202,N,N,8A,Monday,3,January,500,465
+116537,7877,86,M,25.6227771,General Surgery,Admission,51,1,28650,General Surgery,P00006344,Repair of inguinal hernia ( left / open / direct / without prosthesis ) ,general,D00011589,108,N,N,TF4,Wednesday,2,February,100,56
+68097,7927,91,F,26.06420927,Internal Medicine,Admission,85,2,28651,General Surgery,P00000566,,local,D00014098,GSOOR,N,Y,etc,Wednesday,4,February,100,140
+240550,7927,91,F,26.06420927,Internal Medicine,Admission,85,2,100873,General Surgery,P00000566,"AVG (Arteriovenous graft), brachial artery to axillary vein ( left ) ",local,D00014098,OPTO1,N,N,etc,Tuesday,1,August,130,125
+138287,7963,68,M,21.41952507,General Surgery,Admission,52,2,29462,General Surgery,P00004074,Ligation and stripping of varicose vein,spinal,D00010407,103,N,Y,8A,Monday,3,July,200,108
+119394,8041,82,M,24.22146803,Neurosurgery,Admission,SICU,2,30880,Neurosurgery,P00006631,Craniotomy and tumor removal,general,D00003059,207,N,N,TF1,Thursday,2,March,600,246
+156738,8041,82,M,24.22146803,Neurosurgery,Admission,SICU,2,30880,Neurosurgery,P00001505,Craniotomy and tumor removal,general,D00002783,201,Y,Y,TF1,Wednesday,1,December,500,287
+63213,8081,51,F,22.19643635,Ophthalmology,Day,81,2,27962,Ophthalmology,P00000071,,general,D00007967,204,N,N,8A,Wednesday,2,July,130,101
+268005,8081,51,F,22.19643635,Obstetrics & Gynecology,Admission,35,2,14171,Obstetrics & Gynecology,P00008135,Total hysterectomy ( laparotomy ) Ovarian cystectomy ( left / laparotomy ) ,general,D00004294,102,N,N,8A,Friday,3,February,200,154
+86409,8096,85,F,20.45263408,Urology,Admission,84,2,7391,Urology,P00004515,Nephrolithotomy ( bilateral / flexible ureteroscopic ) ,general,D00014104,103,N,N,MDTF1,Thursday,4,August,200,95
+200371,8159,76,F,22.38637899,Orthopedics,Admission,44,2,29474,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,110,N,N,TF1,Thursday,1,November,200,128
+180953,8180,84,M,23.16681957,General Surgery,Admission,52,2,29461,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011951,110,N,Y,TF2,Tuesday,1,June,100,71
+67685,8202,52,F,17.43509222,Orthopedics,Admission,41,1,28687,Orthopedics,P00002601,Excision of lipoma,general,D00004015,110,N,N,8A,Friday,4,March,130,64
+130650,8203,77,F,26.8,Urology,Admission,72,2,7391,Urology,P00004515,Nephrolithotomy ( right / percutaneous ) ,general,D00014106,103,N,N,MDTF1,Thursday,4,June,200,112
+82238,8216,81,M,25.89182564,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008336,501,N,N,etc,Monday,5,July,100,42
+231404,8216,81,M,25.89182564,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF9,Monday,5,November,100,34
+67841,8228,69,F,23.77170349,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Wednesday,2,December,100,31
+102083,8234,78,F,27.51973753,Orthopedics,Admission,41,2,29114,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( left ) ",general,D00019028,108,N,N,TF2,Thursday,5,November,230,175
+137474,8245,88,M,14.0956893,Internal Medicine,Admission,95,3,5917,Otolaryngology,P00007550,Fenestration of trachea,general,D00010939,503,N,N,TF6,Wednesday,2,July,100,62
+97977,8253,75,F,22.98169529,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00007872,Wide excision of other site,general,D00003573,203,N,N,8A,Tuesday,1,October,130,75
+277193,8253,75,F,22.98169529,General Surgery,Admission,NUGW2,2,100613,General Surgery,P00007536,Total thyroidectomy ( CND(bilateral) / MRND(left) / open ) ,general,D00005901,3,N,N,TF1,Tuesday,3,April,330,182
+81767,8285,89,F,19.99303624,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00021532,502,N,N,TF3,Monday,3,June,100,45
+103480,8285,89,F,19.99303624,Obstetrics & Gynecology,Admission,84,2,28599,Obstetrics & Gynecology,P00003269,Hysteroscopic operationDilation and curettage,general,D00014611,D104,N,N,TF1,Tuesday,2,November,30,44
+243241,8290,77,M,27.01994032,Urology,Admission,72,2,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,N,N,TF2,Tuesday,1,October,300,132
+133571,8317,96,F,19.08203125,General Surgery,Admission,51,3,28655,General Surgery,P00006766,Extended right hemicolectomy ( open / with lymph node dissection ) ,general,D00001397,109,N,N,8A,Thursday,2,June,300,234
+134070,8321,77,F,20.29788343,Ophthalmology,Admission,81,1,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",MAC,D00008800,501,N,N,TF4,Tuesday,3,June,130,51
+232853,8329,79,F,25.07094031,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008879,502,N,N,TF1,Monday,3,November,100,33
+232854,8329,79,F,25.07094031,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008879,502,Y,N,TF2,Monday,4,November,100,40
+133933,8340,73,F,22.71484375,Urology,Admission,72,1,5968,Urology,P00007370,Tension free vaginal tape operation,MAC,D00014256,103,N,N,TF1,Wednesday,4,June,100,52
+120931,8361,65,F,20.13312446,Ophthalmology,Day,81,2,30744,Ophthalmology,P00008391,Repair of entropion ( LLL / retractor repair and lateral tarsal strip procudure ) ,MAC,D00022512,502,N,N,MD,Friday,1,May,130,145
+104743,8387,80,F,23.17780471,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF5,Thursday,2,March,100,42
+104745,8387,80,F,23.17780471,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF1,Thursday,3,March,100,36
+281949,8412,74,F,30.00084331,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Breast-conserving surgery ( left / with sentinel lymph node biopsy ) ,general,D00002208,3,N,N,TF1,Friday,3,May,130,90
+92586,8417,81,F,21.05486932,Orthopedics,Admission,44,2,29117,Orthopedics,P00004915,Operation for hallux valgus and toe deformity ( left ) ,spinal,D00012952,108,N,N,8A,Tuesday,5,August,130,160
+122108,8431,83,F,16.86943902,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)",general,D00008804,501,N,N,TF1,Monday,4,May,130,76
+103055,8433,72,M,25.90834587,Ophthalmology,Day,81,2,30744,Ophthalmology,P00000071,,general,D00009125,204,Y,N,TF1,Wednesday,4,May,130,45
+67138,8468,81,F,28.44444153,General Surgery,Day,81,2,6075,General Surgery,P00002199,Endovascular treatment of varicose vein,local,D00010407,GSOOR,N,N,etc,Monday,4,February,130,94
+145157,8468,81,F,28.44444153,General Surgery,Admission,NUGW2,3,28654,General Surgery,P00005935,"Excision of cervical lymph node, deep ( right ) ",general,D00002196,106,Y,N,8A,Friday,1,September,100,81
+111467,8474,89,M,21.98536536,General Surgery,Admission,52,3,29077,General Surgery,P00000201,Anterior resection ( open / with lymph node dissection ) ,general,D00001408,208,N,N,8A,Tuesday,2,January,200,119
+175780,8474,89,M,21.98536536,General Surgery,Admission,45,3,29457,General Surgery,P00006767,Right hemihepatectomy ( laparoscopic ) ,general,D00003016,107,N,N,TF1,Thursday,4,April,300,225
+240367,8502,83,F,28.12147272,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,N,N,8A,Monday,4,October,100,25
+240368,8502,83,F,28.12147272,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,Y,N,TF1,Monday,1,November,100,31
+177390,8540,81,M,22.43684434,Ophthalmology,Day,81,2,30791,Ophthalmology,P00004973,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis ( bilateral ) ,MAC,D00008294,501,N,N,8A,Friday,4,May,100,85
+116912,8554,72,M,20.29666899,Neurosurgery,Admission,55,1,30952,Neurosurgery,P00001496,Craniotomy and cerebral aneurysm clipping,general,D00010154,201,N,N,TF1,Thursday,4,February,400,220
+81429,8558,56,F,22.35492178,Obstetrics & Gynecology,Admission,34,1,28597,Obstetrics & Gynecology,P00008135,Total hysterectomy ( laparotomy ) ,general,D00004294,101,N,N,TF2,Friday,5,June,200,175
+101623,8558,56,F,22.35492178,General Surgery,Admission,121,2,28655,General Surgery,P00000201,Anterior resection ( laparoscopic / with lymph node dissection ) Salpingo-oophorectomy ( left / multiport total laparoscopy ) Oophorectomy ( right / multiport total laparoscopy ) Laparoscopic cholecystectomy,general,D00001408,108,N,N,TF1,Tuesday,5,October,300,200
+160040,8653,72,F,24.88770275,Orthopedics,Admission,42,1,28690,Orthopedics,P00007398,THRA (total hip replacement arthroplasty) ( right ) ,spinal,D00012910,105,N,N,8A,Tuesday,5,December,230,161
+181785,8667,44,M,22.47045914,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF9,Thursday,3,August,100,31
+181786,8667,44,M,22.47045914,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008676,501,Y,N,TF7,Tuesday,1,October,100,44
+209604,8667,44,M,22.47045914,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00000864,Encircling with implant ( left ) ,general,D00008747,501,Y,N,TF2,Wednesday,2,January,130,111
+217137,8667,44,M,22.47045914,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) Removal of preretinal membrane ( left ) Endolaser on chorioretinal lesion ( left ) Silicone oil injection ( left ) ",general,D00008754,501,Y,N,TF2,Wednesday,5,March,130,154
+247033,8667,44,M,22.47045914,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00006189,"Vitrectomy, pars planar (25G)",general,D00008754,501,Y,N,TF1,Thursday,4,October,130,84
+238418,8679,81,F,27.68951516,Otolaryngology,Day,81,2,5956,Otolaryngology,P00002172,Endoscopic sinus surgery ( right ) ,local,D00017517,503,N,N,TF4,Wednesday,1,August,100,45
+68154,8788,91,M,23.7492603,Orthopedics,Admission,44,3,28694,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( right ) ",general,D00019028,105,N,N,MD,Friday,4,March,130,83
+195388,8788,91,M,23.7492603,Orthopedics,Admission,44,2,100648,Orthopedics,P00006070,"Removal of implant for internal fixation, fibula ( left ) ",spinal,D00021348,106,Y,N,TF1,Wednesday,4,September,130,61
+283830,8805,78,F,26.60548027,Obstetrics & Gynecology,Admission,56,2,14171,Obstetrics & Gynecology,P00001322,ColpocleisisPosterior perineorrhaphy,general,D00014555,103,N,N,TF1,Friday,2,June,200,106
+133660,8806,90,F,24.84087354,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00000001,Axillary lymph node dissection ( left ) ,general,D00002208,203,N,N,8A,Thursday,2,June,100,76
+122180,8827,72,F,24.28823381,General Surgery,Admission,121,2,29078,General Surgery,P00003964,Laparoscopy-assisted distal gastrectomy (Billroth I) ( with standard lymph node dissection ) ,general,D00001347,110,N,N,8A,Monday,4,March,300,268
+220329,8827,72,F,24.28823381,Orthopedics,Admission,42,2,108678,Orthopedics,P00002412,Excision of ganglion,spinal,D00013428,106,N,N,TF3,Wednesday,4,March,100,63
+229413,8827,72,F,24.28823381,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF4,Monday,2,September,100,39
+229415,8827,72,F,24.28823381,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,501,Y,N,TF3,Monday,3,September,100,42
+91079,8828,78,M,23.70042757,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Friday,2,October,100,38
+75271,8851,87,M,20.04362866,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Wednesday,5,August,100,44
+75272,8851,87,M,20.04362866,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF2,Wednesday,2,September,101,30
+261022,8854,75,F,19.03550242,Otolaryngology,Admission,102,2,5956,Otolaryngology,P00002399,Excision of external ear mass ( right ) ,MAC,D00009492,503,N,N,8A30,Monday,1,January,100,26
+97611,8862,81,F,24.99479709,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,TF2,Thursday,5,November,100,33
+76380,8872,80,F,26.08067022,Ophthalmology,Day,81,2,30744,Ophthalmology,P00006313,Repair of entropion ( BLL / retractor repair and lateral tarsal strip procudure ) ,MAC,D00022512,501,N,N,8A30,Friday,1,May,130,125
+188924,8914,50,M,23.81561301,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007459,Tonsillectomy without adenoidectomy,general,D00010682,204,N,N,TF1,Tuesday,3,August,100,93
+260251,8916,78,M,20.61443396,General Surgery,Admission,51,2,100616,General Surgery,P00007447,TLDG (Totally laparoscopic distal gastrectomy) with Billroth II ( with standard lymph node dissection ) ,general,D00001347,105,N,N,TF2,Friday,3,December,300,219
+222989,8919,79,F,25.12526855,Urology,Admission,81,2,15127,Urology,P00003250,Hydrodistention of bladderCystoscopic biopsyTUC (Transurethral coagulation) of bladder,general,D00014200,103,N,N,8A,Monday,3,April,130,81
+84333,8928,67,F,22.36939559,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002172,Endoscopic sinus surgery ( bilateral ) Septoplasty,general,D00010659,503,N,N,8A,Wednesday,2,July,200,190
+219137,8976,76,M,24.50424225,Cardiovascular Thoracic Surgery,Admission,RICU,3,31030,Cardiovascular Thoracic Surgery,P00006442,Replacement of aorta ( total arch ) ,general,D00010231,203,N,N,8A,Monday,3,March,500,385
+148484,8988,73,M,21.01582261,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00003986,Laryngomicrosurgery (LMS) ( right ) ,general,D00017813,504,N,N,8A,Monday,3,October,100,116
+65169,9022,82,M,18.30869976,General Surgery,Admission,81,3,28649,General Surgery,P00006344,Repair of inguinal hernia ( right / open / direct / without prosthesis ) ,spinal,D00011591,104,N,N,TF7,Wednesday,1,February,100,64
+180904,9022,82,M,18.30869976,Internal Medicine,Admission,85,2,30784,General Surgery,P00000562,"AVF (Arteriovenous fistula), radial-cephalic",local,D00014095,OPTO1,N,N,8A30,Wednesday,3,June,100,60
+188143,9022,82,M,18.30869976,Orthopedics,Admission,44,3,100646,Orthopedics,P00004769,Open reduction and internal fixation of fracture,general,D00019593,105,N,N,TF1,Thursday,4,July,300,292
+102715,9046,65,F,26.31463532,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00007919,"Blepharoplasty, lower eyelid ( bilateral ) ",local,D00008309,503,N,N,8A,Wednesday,2,November,130,135
+145842,9046,65,F,26.31463532,Orthopedics,Admission,44,2,29116,Orthopedics,P00006070,Removal of hardware,general,D00019006,108,N,N,8A,Thursday,3,September,300,174
+120376,9057,78,F,24.2560532,Orthopedics,Admission,42,1,29111,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,106,N,N,TF1,Tuesday,3,March,200,126
+122077,9057,78,F,24.2560532,Orthopedics,Admission,42,1,29111,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012919,106,Y,N,8A,Tuesday,4,March,200,135
+213199,9057,78,F,24.2560532,Ophthalmology,Day,81,1,30791,Ophthalmology,P00005407,,MAC,D00008857,501,N,N,TF4,Monday,4,May,100,40
+216361,9119,61,F,17.98076059,Cardiovascular Thoracic Surgery,Admission,71,2,6249,Cardiovascular Thoracic Surgery,P00007837,Lobectomy ( LUL / VATS / with mediastinal LN dissection ) ,general,D00011002,103,N,N,8A,Tuesday,4,February,300,141
+110192,9123,86,F,26.47665205,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",general,D00008857,501,N,N,TF3,Friday,1,February,130,92
+233576,9123,86,F,26.47665205,Ophthalmology,Day,81,1,30791,Ophthalmology,P00005407,,MAC,D00008857,501,Y,N,TF4,Friday,4,August,100,35
+101558,9156,84,F,28.1233099,Orthopedics,Admission,42,2,29116,Orthopedics,P00006719,Revision of tibial insert of TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00020784,110,N,N,8A,Wednesday,5,October,300,130
+102347,9156,84,F,28.1233099,Orthopedics,Admission,42,3,29116,Orthopedics,P00007881,Suture of wound,spinal,D00020646,106,Y,Y,TF2,Friday,5,November,100,85
+131667,9156,84,F,28.1233099,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008857,501,N,N,TF1,Tuesday,1,July,100,21
+208706,9158,67,M,23.59700421,General Surgery,Admission,52,2,29465,General Surgery,P00006344,"Repair of recurrent inguinal hernia, unilateral",spinal,D00011592,107,N,N,TF2,Tuesday,5,December,100,64
+93433,9162,79,M,21.4907512,General Surgery,Admission,SICU2,3,28654,General Surgery,P00004215,Living donor liver transplantation (adult),general,D00001455,208,N,N,etc,Friday,4,August,600,470
+254587,9162,79,M,21.4907512,General Surgery,Admission,52,2,100620,General Surgery,P00005224,Paraaortic lymph node dissection ( open / total ) ,general,D00001455,504,N,N,TF1,Wednesday,2,November,300,197
+265094,9175,71,M,25.44591509,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar (23G)Endolaser on chorioretinal lesion ( left ) ",MAC,D00008681,501,N,N,TF2,Wednesday,4,February,130,33
+60017,9188,68,M,25.37395254,Urology,Admission,72,2,5930,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,104,N,N,TF4,Tuesday,2,January,100,58
+82427,9188,68,M,25.37395254,Urology,Admission,72,2,5930,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00003034,104,Y,N,8A,Tuesday,2,June,100,67
+92002,9188,68,M,25.37395254,Urology,Admission,72,2,6019,Urology,P00005635,Radical cystectomy ( open / neobladder ) ,general,D00003034,103,Y,N,MD,Tuesday,4,August,500,330
+138228,9190,68,M,27.734375,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Wednesday,3,September,100,38
+138229,9190,68,M,27.734375,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Thursday,4,September,100,22
+100092,9197,71,M,16.90149027,General Surgery,Admission,51,2,6075,General Surgery,P00006010,Revision of arteriovenous fistula for renal dialysis,local,D00014097,110,N,Y,etc,Wednesday,3,October,200,135
+245803,9197,71,M,16.90149027,Internal Medicine,Admission,85,2,6216,General Surgery,P00006664,Revision of arteriovenous fistula for renal dialysis,local,D00014097,OPTO1,N,N,etc,Thursday,3,September,200,135
+258506,9197,71,M,16.90149027,Urology,Admission,72,2,15127,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E6,N,N,MD,Wednesday,2,December,300,155
+278238,9197,71,M,16.90149027,General Surgery,Admission,51,3,6036,General Surgery,P00005634,CholecystectomyRegional lymph node dissection,general,D00001486,E6,N,N,TF1,Thursday,2,May,200,205
+162855,9228,69,M,24.78559104,Neurosurgery,Admission,SICU,2,6013,Neurosurgery,P00001505,Craniotomy and tumor removal,general,D00004667,207,N,N,8A,Tuesday,5,January,600,356
+178502,9267,80,F,22.03073822,Orthopedics,Admission,121,2,29111,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion) ( left ) ,general,D00013277,106,N,N,8A,Thursday,3,May,500,343
+252968,9274,81,M,25.90190704,General Surgery,Admission,121,2,29462,General Surgery,P00002600,Excision of soft tissue mass,MAC,D00021241,208,N,N,8A,Friday,4,October,130,105
+141908,9276,68,M,24.42358848,Orthopedics,Admission,42,2,29476,Orthopedics,P00008106,Simple repair of tendon,spinal,D00019552,105,N,N,8A,Friday,2,August,200,86
+75524,9298,73,F,22.17095989,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF10,Monday,1,June,100,38
+75525,9298,73,F,22.17095989,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,etc,Monday,2,June,101,37
+75345,9354,50,F,21.8971243,Pediatric Thoracic Surgery,Admission,C52,2,8487,Pediatric Thoracic Surgery,P00000944,Change of pacemaker generator,general,D00016205,4,N,N,TF1,Friday,3,April,200,105
+159669,9364,46,F,20.42676502,General Surgery,Admission,64,1,9885,General Surgery,P00002734,Excision of single benign breast mass ( left ) ,general,D00022631,503,N,N,TF3,Friday,3,December,130,115
+228283,9369,75,M,29.02624637,Ophthalmology,Admission,81,3,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)",general,D00008871,501,N,N,TF2,Friday,3,June,130,63
+168514,9385,75,M,22.37457483,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00000902,Replacement of heart valve,general,D00020746,203,N,N,MD,Tuesday,4,February,600,320
+176269,9389,93,F,30.82486466,General Surgery,Admission,51,3,29459,General Surgery,P00000201,Anterior resection ( open / with lymph node dissection ) ,general,D00001408,107,N,N,8A,Tuesday,5,April,200,126
+65460,9397,55,M,30.41409719,General Surgery,Admission,84,3,6036,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,107,N,N,TF1,Friday,1,February,100,77
+62803,9402,81,F,29.02494331,Ophthalmology,Day,81,2,27962,Ophthalmology,P00005407,,MAC,D00008872,501,N,N,TF4,Thursday,3,March,100,55
+221381,9428,67,M,22.76790518,Urology,Admission,72,2,99342,Urology,P00004507,Nephrectomy ( left / radical / robotic ) ,general,D00014171,104,N,N,TF1,Tuesday,2,April,300,296
+254377,9448,91,F,28.23576554,Urology,Admission,72,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,104,N,N,TF3,Friday,1,December,100,49
+110242,9457,66,M,23.19109462,Internal Medicine,Admission,85,2,6216,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014098,GSOOR,N,N,etc,Monday,2,January,100,74
+187808,9478,82,F,25.15335057,Neurosurgery,Admission,55,2,6013,Neurosurgery,P00007801,Ventriculoperitoneal shunt,general,D00004667,201,N,N,TF1,Tuesday,5,July,300,135
+201842,9484,68,F,25.91210614,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF5,Wednesday,3,October,100,26
+165781,9501,79,F,22.41599708,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00006454,Revision of prosthesis of heart valve,general,D00020746,203,N,N,8A,Wednesday,1,February,600,351
+269692,9506,81,F,25.71285538,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002514,Endoscopic sinus surgery ( left ) ,general,D00010682,204,N,N,8A,Tuesday,3,March,100,117
+242825,9510,69,F,21.49143076,General Surgery,Admission,65,2,100615,General Surgery,P00006766,Right hemicolectomy ( laparoscopic / with lymph node dissection ) ,general,D00001399,110,N,N,8A,Tuesday,3,August,300,240
+204244,9530,82,F,28.39094938,Orthopedics,Admission,42,2,29476,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,110,N,N,8A,Thursday,1,December,200,141
+223401,9530,82,F,28.39094938,Orthopedics,Admission,44,2,108678,Orthopedics,P00000288,"Arthrodesis (fusion), ankle joint ( left ) Arthrodesis (fusion), intertarsal joint ( left ) ",general,D00012934,106,Y,N,8A,Wednesday,2,April,330,200
+153463,9533,70,F,20.81129286,Orthopedics,Admission,42,2,29112,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012919,105,N,N,TF1,Thursday,2,November,200,121
+153464,9533,70,F,20.81129286,Orthopedics,Admission,42,2,29112,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,106,Y,N,TF2,Thursday,3,November,200,151
+152926,9534,57,M,28.1364089,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00006911,Septoturbinoplasty,general,D00007764,503,N,N,TF1,Wednesday,3,November,100,55
+114314,9546,84,M,24.06972047,Orthopedics,Admission,41,2,28690,Orthopedics,P00005946,Release of carpal tunnel ( bilateral ) ,local,D00007851,106,N,N,etc,Saturday,4,January,30,75
+132246,9546,84,M,24.06972047,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Thursday,4,September,100,38
+147777,9567,69,F,27.78734463,Orthopedics,Admission,41,2,29116,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( left ) ",general,D00019028,105,Y,N,TF1,Monday,4,September,300,166
+269510,9572,79,F,24.34288448,General Surgery,Admission,65,2,6036,General Surgery,P00002822,Robotic cholecystectomy,general,D00001486,E6,N,N,TF1,Thursday,2,March,400,159
+218370,9573,90,M,17.32519623,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008796,501,N,N,TF5,Thursday,3,June,100,39
+78329,9584,64,F,26.83305464,Neurosurgery,Admission,55,3,6086,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010265,ANGIO,N,N,TF2,Tuesday,3,May,300,106
+210880,9589,79,M,22.03856749,Urology,Admission,72,2,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,N,N,TF2,Tuesday,1,February,300,116
+225615,9600,71,M,27.57292261,Cardiovascular Thoracic Surgery,Admission,RICU,3,31030,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve,general,D00009709,203,N,N,8A,Monday,4,April,500,316
+85528,9607,61,M,24.5974992,Urology,Admission,72,1,6087,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,N,N,8A,Wednesday,1,August,300,175
+161690,9651,88,F,23.37453111,Cardiovascular Thoracic Surgery,Admission,RICU,3,5891,Cardiovascular Thoracic Surgery,P00000902,Replacement of redo-valve ( aortic valve ) ,general,D00020746,202,N,Y,etc,Saturday,1,January,600,271
+284408,9655,79,M,28.39372634,General Surgery,Day,81,2,6075,General Surgery,P00002199,Endovascular treatment of varicose vein,local,D00010407,OPTO1,N,N,etc,Tuesday,3,June,100,55
+164434,9661,96,F,23.70042757,Internal Medicine,Admission,41,3,29478,Orthopedics,P00000710,"Bipolar hemiarthroplasty, hip ( right ) ",spinal,D00019350,108,N,Y,etc,Wednesday,4,January,130,107
+192144,9689,48,M,19.9478795,Pediatric Thoracic Surgery,Admission,4B,3,8487,Pediatric Thoracic Surgery,P00000944,Change of pacemaker generator,general,D00016212,3,N,N,TF1,Friday,3,August,200,105
+187578,9733,67,F,21.98872165,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00000902,Cardiac redo operationReplacement of heart valveRepair of heart valve,general,D00009523,202,N,N,8A,Friday,3,July,600,484
+96193,9758,84,F,26.48553975,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008866,501,N,N,TF3,Tuesday,5,October,100,35
+262313,9782,84,F,21.75019668,Ophthalmology,Day,81,4,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Tuesday,1,January,100,33
+262314,9782,84,F,21.75019668,Ophthalmology,Day,81,4,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,8A,Tuesday,3,January,100,49
+78075,9794,89,M,27.45618451,Urology,Admission,72,2,5887,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,104,N,N,TF5,Wednesday,3,May,100,48
+135751,9794,89,M,27.45618451,Urology,Admission,72,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,103,Y,N,8A,Friday,4,July,100,64
+175701,9802,78,M,22.92901948,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF3,Monday,5,June,100,86
+85371,9826,77,F,26.91604381,Ophthalmology,Admission,81,2,5954,Ophthalmology,P00004971,Excision of lacrimal gland lesion ( left ) ,MAC,D00008333,204,N,N,TF3,Wednesday,4,July,130,55
+83570,9899,82,F,27.91285692,Internal Medicine,Admission,85,2,6216,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014098,GSOOR,N,N,etc,Monday,4,June,100,90
+96494,9904,82,F,24.11799364,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Monday,5,October,100,33
+134980,9913,69,F,17.23765708,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF4,Tuesday,2,April,100,33
+139307,9959,77,F,23.62233647,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008764,501,N,N,TF4,Wednesday,2,August,130,81
+182770,9960,82,M,20.2682783,General Surgery,Admission,54,3,29464,General Surgery,P00000258,Cecectomy ( conversion(open) ) Serosal repair or primary repair of perforated intestine,general,D00011563,110,N,N,TF3,Monday,3,June,130,171
+82918,10009,64,F,22.77696793,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00009160,502,N,N,TF3,Wednesday,1,January,100,28
+82919,10009,64,F,22.77696793,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00009160,502,Y,N,TF5,Wednesday,2,January,101,46
+99673,10037,70,F,24.76545656,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008868,501,N,N,TF6,Tuesday,4,October,100,45
+172368,10065,80,F,23.78442109,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008868,501,N,N,TF1,Monday,3,April,100,81
+243447,10065,80,F,23.78442109,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)PE & PCL (Phacoemulsification & Posterior chamber lens implantation) : LT(2.2mm superior incision)",general,D00008868,501,Y,N,8A,Wednesday,1,December,130,78
+71196,10078,78,F,24.80722717,General Surgery,Admission,51,2,28647,General Surgery,P00008143,Central bisectionectomy of liver ( laparoscopic ) ,general,D00001455,208,N,N,MD,Thursday,3,March,300,256
+70883,10082,73,M,28.05140782,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Tuesday,2,July,100,37
+138206,10084,75,F,25.75421977,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00005344,Penetration keratoplasty ( left ) ,general,D00008542,502,N,N,8A,Thursday,4,August,130,126
+205427,10125,79,F,25.77777778,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF2,Monday,4,December,100,40
+77466,10134,83,F,21.0378269,General Surgery,Admission,51,1,28651,General Surgery,P00004070,"Ligation and stripping of varicose vein, great saphenous vein ( bilateral ) ",general,D00010401,110,N,N,MDTF2,Thursday,1,May,230,190
+82334,10158,67,M,21.71910431,Neurosurgery,Admission,45,2,6013,Neurosurgery,P00007163,"Stereotactic stimulation, subthalamus",local,D00007494,201,N,N,TF1,Tuesday,5,July,130,105
+195558,10162,74,F,26.15758237,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)PE & PCL (Phacoemulsification & Posterior chamber lens implantation) ( right ) Removal of epiretinal membrane ( right ) ",general,D00008857,501,N,N,TF4,Wednesday,1,November,130,79
+98854,10175,65,F,21.05186451,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00002591,,local,D00012666,OPTL8,N,N,etc,Monday,2,October,100,32
+123357,10179,64,F,21.45432211,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF5,Thursday,1,April,100,36
+123358,10179,64,F,21.45432211,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Thursday,2,April,100,38
+78470,10186,75,F,27.11102448,Cardiovascular Thoracic Surgery,Admission,71,2,6084,Cardiovascular Thoracic Surgery,P00007837,VATS (video-assisted thoracic surgery) RML wedge resection,general,D00002974,103,N,N,8A,Friday,2,May,200,78
+200690,10222,89,F,24.26666667,Internal Medicine,Admission,85,2,30784,General Surgery,P00000567,"AVG (Arteriovenous graft), brachial artery to brachial vein ( right ) ",local,D00014098,OPTO1,N,N,etc,Wednesday,1,November,100,148
+212585,10222,89,F,24.26666667,General Surgery,Outpatient,,2,30784,General Surgery,P00006169,Removal of permanent catheter,local,D00014097,OPTO1,Y,N,etc,Monday,4,January,30,73
+226949,10222,89,F,24.26666667,Internal Medicine,Admission,85,2,30784,General Surgery,P00000569,Revision of arteriovenous fistula for renal dialysis,local,D00010194,OPTO1,Y,N,etc,Friday,2,May,200,155
+107103,10227,75,F,26.94492166,Ophthalmology,Day,81,2,5954,Ophthalmology,P00004971,Intubation of nasolacrimal duct ( left ) Correction of everted punctum ( LLL ) Conjunctivoplasty ( left ) ,MAC,D00008364,204,N,N,TF3,Wednesday,3,December,130,51
+112804,10246,71,M,24.05896461,Internal Medicine,Day,85,2,29082,General Surgery,P00001138,Closure of arteriovenous fistula by suture,local,D00014097,GSOOR,N,Y,etc,Wednesday,3,January,100,74
+234011,10246,71,M,24.05896461,Internal Medicine,Admission,85,2,100873,General Surgery,P00000562,"AVF (Arteriovenous fistula), brachial-basilic",local,D00014098,OPTO1,N,N,etc,Tuesday,4,June,100,99
+240630,10246,71,M,24.05896461,General Surgery,Admission,45,4,100617,General Surgery,P00000561,"AVF (Arteriovenous fistula), brachial-transposed basilic ( left ) ",MAC,D00014097,208,Y,N,8A,Monday,1,August,130,143
+138908,10304,74,M,29.59760608,Cardiovascular Thoracic Surgery,Admission,121,1,6084,Cardiovascular Thoracic Surgery,P00002463,VATS (Video-assisted thoracoscopic surgery)-A ( right ) ,general,D00004015,103,N,N,8A,Friday,3,July,100,54
+164020,10305,65,F,21.2241836,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",MAC,D00008678,501,N,N,TF2,Thursday,5,January,130,81
+279855,10335,82,M,24.69342204,Urology,Admission,72,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,102,N,N,TF3,Tuesday,2,June,100,41
+286492,10335,82,M,24.69342204,Urology,Admission,72,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,504,Y,N,MDTF3,Tuesday,2,July,100,49
+91353,10344,79,F,29.43579284,Orthopedics,Admission,42,2,29158,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( right ) ",general,D00019028,108,N,N,etc,Wednesday,2,August,300,200
+115984,10344,79,F,29.43579284,Orthopedics,Admission,41,2,29115,Orthopedics,P00006070,Removal of hardware,general,D00019028,105,Y,N,MD,Friday,2,February,200,112
+272937,10365,61,F,23.70042757,Plastic Surgery,Outpatient,,2,12472,Plastic Surgery,P00002601,Excision of benign soft tissue tumor,local,D00017609,OPTO2,N,N,etc,Monday,4,March,100,70
+286402,10365,61,F,23.70042757,Plastic Surgery,Outpatient,,2,12472,Plastic Surgery,P00002602,Excision of soft tissue,local,D00012529,OPTO2,Y,N,etc,Wednesday,2,July,100,75
+152516,10386,79,F,25.77777778,Cardiovascular Thoracic Surgery,Admission,RICU,4,6248,Cardiovascular Thoracic Surgery,P00000902,Replacement of redo-valve,general,D00009695,203,N,N,8A,Wednesday,5,October,500,428
+81488,10398,68,F,20.56625636,Plastic Surgery,Outpatient,,2,31008,Plastic Surgery,P00002530,Excision of soft tissue mass,local,D00004015,GSOOR,N,N,etc,Friday,3,June,100,52
+147458,10414,60,F,22.3319051,Neurosurgery,Admission,45,3,14480,Neurosurgery,P00008421,TLIF (transforaminal lumbar interbody fusion) ( bilateral ) ,general,D00013247,209,N,N,TF2,Thursday,4,September,500,316
+60586,10427,73,F,24.47706966,Ophthalmology,Admission,81,2,27962,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",MAC,D00014098,501,N,N,TF5,Thursday,3,January,130,62
+249485,10430,83,M,25.13606019,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008762,501,N,N,TF4,Tuesday,2,May,100,33
+249486,10430,83,M,25.13606019,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008762,501,Y,N,TF4,Tuesday,4,May,100,33
+277485,10435,83,F,21.55555556,Orthopedics,Admission,41,2,108683,Orthopedics,P00005946,Release of carpal tunnel ( bilateral ) ,local,D00007851,110,N,N,etc,Saturday,3,April,100,86
+132737,10453,89,F,21.92922343,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008857,502,N,N,TF6,Thursday,3,September,100,35
+244106,10456,43,F,21.17159099,Obstetrics & Gynecology,Admission,31,2,14171,Obstetrics & Gynecology,P00001973,Elective cesarean section ( ???¹­?ê¾©ë–Š / å¯ƒìŽŒê¶?/ è«›ì„Ž??) ,spinal,D00021302,D107,N,N,TF1,Friday,1,September,130,105
+211878,10473,81,F,25.66631523,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF7,Monday,2,June,100,38
+211879,10473,81,F,25.66631523,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Monday,3,June,100,41
+114114,10482,55,F,31.90038511,Urology,Admission,72,1,5930,Urology,P00000073,Adrenalectomy ( left / laparoscopic / convention ) Adrenalectomy ( left / laparoscopic / convention ) ,general,D00006128,104,N,N,TF1,Tuesday,2,March,300,173
+163215,10497,74,F,22.89369582,Neurosurgery,Admission,45,2,14480,Neurosurgery,P00005481,"Posterior decompression, thoracic spine",general,D00008201,209,N,N,TF1,Tuesday,4,January,300,136
+156414,10514,75,M,27.44935638,General Surgery,Admission,121,2,6036,General Surgery,P00008228,Robotic cholecystectomy,general,D00011998,E6,N,N,8A,Thursday,1,December,400,131
+249988,10529,69,M,23.70042757,Orthopedics,Admission,44,2,108678,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,108,N,N,8A,Monday,2,October,200,159
+96005,10596,95,F,23.35301399,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008676,502,N,N,8A,Monday,2,November,100,30
+167298,10598,67,F,27.0980429,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF3,Wednesday,3,February,100,35
+117606,10628,86,F,23.89464607,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00000091,,local,D00008890,502,N,N,TF6,Monday,3,March,130,54
+182899,10628,86,F,23.89464607,Orthopedics,Admission,41,3,100668,Orthopedics,P00003801,"Intramedullary nailing, femur ( left ) ",general,D00019351,104,N,N,TF1,Friday,3,June,130,100
+254534,10663,62,M,23.70042757,Urology,Admission,72,2,99342,Urology,P00004507,Nephrectomy ( right / partial / robotic ) ,general,D00014171,104,N,N,8A,Monday,4,December,300,129
+170716,10675,82,F,27.30249928,Ophthalmology,Day,81,2,30791,Ophthalmology,P00004971,Biopsy of lacrimal sac ( left ) ,MAC,D00004380,501,Y,N,TF1,Friday,3,March,130,91
+209370,10675,82,F,27.30249928,Ophthalmology,Admission,81,2,99332,Ophthalmology,P00004971,Dacryocystorhinostomy ( left / external ) ,general,D00008897,204,Y,N,TF4,Wednesday,3,February,130,150
+96421,10702,65,F,19.95526512,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy ) ,general,D00002196,103,N,N,TF1,Friday,2,September,130,90
+96882,10702,65,F,19.95526512,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00005303,Superficial parotidectomy ( left ) ,general,D00011352,502,N,N,MDTF1,Thursday,4,September,200,172
+98637,10702,65,F,19.95526512,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00000001,Axillary lymph node dissection ( right ) ,general,D00002208,103,N,N,TF2,Friday,1,October,100,75
+178576,10735,67,M,22.16308953,Orthopedics,Admission,44,3,100652,Orthopedics,P00000194,"Anterior fusion, thoracic spine",general,D00008201,106,N,N,TF2,Tuesday,3,May,400,216
+72008,10736,76,F,21.5122956,General Surgery,Admission,121,2,6036,General Surgery,P00003923,Laparoscopic spleen preserving distal pancreatectomy ( Warshaw method ) ,general,D00004899,107,N,N,TF1,Tuesday,4,March,200,115
+187164,10738,80,M,27.07148558,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF2,Monday,1,October,100,134
+120797,10743,43,F,27.00482552,Obstetrics & Gynecology,Admission,31,2,29032,Obstetrics & Gynecology,P00001973,Elective cesarean section ( ??½ê¹­?ê¾©ë–Š / ?¥ë‰ê¶?/ ?¥ëŠ??) ,spinal,D00014964,102,N,N,TF2,Friday,2,March,130,130
+273742,10768,76,M,28.29683153,Orthopedics,Admission,44,2,108679,Orthopedics,P00000288,"Arthrodesis (fusion), ankle joint ( right ) ",spinal,D00012934,106,N,N,8A,Wednesday,5,March,130,145
+121253,10795,87,M,19.10989641,Internal Medicine,Admission,85,2,30784,General Surgery,P00000559,"AVG (Arteriovenous graft), brachial artery to brachial vein ( left ) ",local,D00014097,OPTO1,N,N,etc,Wednesday,3,March,100,105
+65159,10861,81,M,22.08673738,General Surgery,Admission,54,2,28649,General Surgery,P00002830,Right hemicolectomy ( open / with lymph node dissection ) ,general,D00001416,108,N,N,TF1,Wednesday,1,February,200,95
+85011,10884,48,F,18.94256772,General Surgery,Admission,NUGW2,1,9885,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy ) ,general,D00002217,208,N,N,etc,Wednesday,4,June,130,50
+103091,10884,48,F,18.94256772,Obstetrics & Gynecology,Admission,35,2,28599,Obstetrics & Gynecology,P00006798,Salpingo-oophorectomy ( bilateral / single port total laparoscopy ) ,general,D00002196,101,N,N,TF1,Monday,2,November,100,60
+255959,10885,79,M,25.6311675,Urology,Admission,81,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014286,103,N,N,TF2,Monday,4,March,100,72
+82931,10897,72,M,23.61666171,Ophthalmology,Admission,81,1,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) Silicone oil injection ( right ) ",MAC,D00008729,501,N,N,TF3,Thursday,2,June,130,66
+100073,10897,72,M,23.61666171,Ophthalmology,Admission,81,2,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",MAC,D00008741,501,Y,N,TF6,Thursday,4,December,130,66
+119262,10897,72,M,23.61666171,Ophthalmology,Admission,81,1,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) Silicone oil injection ( right ) ",MAC,D00008741,501,Y,N,TF2,Thursday,2,March,130,107
+130143,10897,72,M,23.61666171,Ophthalmology,Admission,81,1,6223,Ophthalmology,P00005321,Partial vitrectomy ( right ) ,MAC,D00008793,501,Y,N,TF7,Tuesday,2,June,130,68
+190811,10897,72,M,23.61666171,Ophthalmology,Admission,81,1,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",MAC,D00008679,501,Y,N,TF1,Thursday,3,August,130,82
+147977,10901,81,M,23.76497479,General Surgery,Admission,54,3,29080,General Surgery,P00006766,Right hemicolectomy ( laparoscopic / with lymph node dissection ) Small bowel segmental resection ( open / multiple ) ,general,D00001397,107,N,N,TF1,Tuesday,4,September,200,301
+227572,10928,65,M,22.82624474,Plastic Surgery,Admission,65,1,11896,Plastic Surgery,P00002463,Excision of soft tissue mass,general,D00004015,503,N,N,8A,Thursday,2,May,100,82
+128328,10965,77,F,28.09382219,Orthopedics,Admission,41,2,29476,Orthopedics,P00004777,"Open reduction and internal fixation, femur ( left ) ",general,D00003248,110,N,N,MDTF1,Wednesday,2,May,200,321
+271203,10981,85,M,25.46891117,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF2,Thursday,1,September,100,41
+173115,10996,69,F,28.29114658,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF6,Thursday,3,July,100,28
+173116,10996,69,F,28.29114658,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF6,Thursday,4,July,100,28
+249593,10998,74,F,23.11288089,General Surgery,Admission,NUGW2,3,9885,General Surgery,P00004259,Breast-conserving surgery ( left / with sentinel lymph node biopsy ) ,general,D00002208,110,N,N,TF1,Wednesday,1,October,100,96
+165003,11005,81,M,25.09981298,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,local,D00008676,502,N,N,etc,Monday,5,March,100,95
+171266,11009,76,M,22.85747808,General Surgery,Admission,52,2,29460,General Surgery,P00006344,Repair of inguinal hernia ( right / open / indirect / with prosthesis ) ,general,D00011589,105,N,N,8A,Thursday,3,March,100,71
+93427,11018,84,F,21.46131689,Orthopedics,Admission,41,2,29112,Orthopedics,P00004779,"Open reduction and internal fixation, humerus ( left ) ",general,D00018878,110,N,N,TF2,Wednesday,5,August,130,110
+200640,11030,87,M,23.30905307,Urology,Admission,84,2,99342,Urology,P00004507,Nephrectomy ( right / partial / open ) ,general,D00014171,104,N,N,TF4,Tuesday,1,December,300,142
+223512,11034,77,F,28.6425462,Orthopedics,Admission,42,2,108705,Orthopedics,P00005479,"Posterior decompression, lumbar spine",general,D00013283,106,N,N,8A,Tuesday,2,April,330,200
+139694,11039,80,F,21.96363004,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF5,Friday,4,September,100,61
+191927,11077,84,M,24.31031855,General Surgery,Admission,51,2,29458,General Surgery,P00002830,"Right hemicolectomy ( open / with lymph node dissection ) Adhesiolysis, abdomen ( laparotomy ) ",general,D00001401,108,N,N,TF1,Wednesday,3,August,200,129
+169293,11127,90,M,22.47191011,Internal Medicine,Admission,95,2,43551,General Surgery,P00000560,"AVG (Arteriovenous graft), brachial artery to brachial vein ( right ) ",local,D00014102,OPTO1,N,N,etc,Wednesday,1,March,100,200
+124557,11160,81,M,20.38062284,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Wednesday,2,July,100,44
+143720,11160,81,M,20.38062284,Internal Medicine,Admission,SICU2,3,29076,General Surgery,P00002818,Small bowel segmental resection ( open / single ) ,general,D00011779,108,N,Y,TF3,Wednesday,3,August,200,175
+171228,11160,81,M,20.38062284,Rehabilitation Medicine,Admission,121,3,29460,General Surgery,P00002818,"Small bowel segmental resection ( open / multiple ) Colon segmental resection ( open / single ) Exploratory laparotomyAdhesiolysis, abdomen ( laparotomy ) ",general,D00011784,108,N,N,TF1,Wednesday,3,March,400,316
+119064,11184,62,F,31.48226912,Orthopedics,Admission,41,2,29115,Orthopedics,P00004779,"Open reduction and internal fixation, humerus ( left ) ",general,D00018885,110,N,N,TF1,Wednesday,1,March,130,92
+96686,11186,77,F,26.99721824,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00006045,"Vitrectomy, pars planar ( right ) ",general,D00008857,501,N,N,TF9,Tuesday,1,November,130,98
+125012,11186,77,F,26.99721824,Ophthalmology,Day,81,1,30744,Ophthalmology,P00005407,,MAC,D00008857,501,Y,N,TF3,Tuesday,1,June,100,24
+161004,11200,44,M,24.18811536,Urology,Admission,72,2,7391,Urology,P00004515,Nephrolithotomy  ( left / percutaneous ) ,general,D00014104,104,N,N,MDTF1,Wednesday,2,February,200,83
+145996,11201,75,M,21.72638368,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00002514,Excision of nasal mass,MAC,D00010679,204,N,N,TF1,Monday,2,October,100,79
+213810,11207,68,F,28.90625,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00004259,Total mastectomy ( left / with sentinel lymph node biopsy ) ,general,D00002196,107,N,N,TF1,Wednesday,1,February,130,132
+277261,11231,83,F,20.82750752,Cardiovascular Thoracic Surgery,Admission,84,2,6084,Cardiovascular Thoracic Surgery,P00004217,VATS (video-assisted thoracic surgery) LLLobectomy,general,D00001663,104,N,N,TF2,Monday,3,April,230,136
+280268,11231,83,F,20.82750752,Urology,Admission,81,3,100880,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,504,N,N,TF4,Friday,4,June,100,30
+179420,11251,51,M,17.29818106,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00006454,Replacement of heart valve,general,D00020746,202,N,N,8A,Friday,3,May,600,522
+291655,11274,69,F,26.74526638,Orthopedics,Admission,44,2,100652,Orthopedics,P00007677,"Unicompartmental (unicondylar) arthroplasty, knee ( left ) ",spinal,D00012919,105,N,N,8A30,Tuesday,1,August,200,115
+64607,11324,49,F,21.63452709,General Surgery,Admission,102,1,9930,General Surgery,P00007417,Thyroid lobectomy ( left / robotic / CND(left) ) ,general,D00002883,E5,N,N,8A,Monday,1,February,330,183
+270397,11358,83,F,23.01477864,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008897,502,N,N,TF5,Tuesday,1,August,100,69
+270398,11358,83,F,23.01477864,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008897,502,Y,N,TF7,Tuesday,3,August,100,56
+105776,11401,82,M,25.02882922,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008871,501,N,N,TF2,Wednesday,5,May,100,28
+245694,11404,86,F,19.11111111,Internal Medicine,Admission,85,2,6216,General Surgery,P00000567,"AVG (Arteriovenous graft), brachial artery to brachial vein ( right ) ",local,D00014098,OPTO1,N,N,etc,Tuesday,2,September,130,101
+124724,11428,70,F,23.48625401,General Surgery,Admission,121,3,28652,General Surgery,P00008130,Total mastectomy ( right / with sentinel lymph node biopsy ) ,general,D00002214,504,N,N,TF1,Wednesday,2,April,100,92
+79388,11432,82,F,27.840281,Cardiovascular Thoracic Surgery,Admission,RICU,3,5891,Cardiovascular Thoracic Surgery,P00001473,Replacement of heart valve ( aortic valve / tissue valve ) Cox-Maze procedure,general,D00009848,202,N,N,8A,Thursday,3,May,500,362
+209100,11457,64,M,22.4845134,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002548,Excision of pharyngeal lesion or tissue,general,D00010761,204,N,N,MD,Monday,4,January,200,86
+103308,11462,78,F,26.60958715,Orthopedics,Admission,42,2,28695,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,general,D00012941,105,N,N,TF2,Thursday,2,November,200,130
+104114,11462,78,F,26.60958715,Orthopedics,Admission,42,1,28695,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012941,105,Y,N,TF2,Thursday,3,November,200,125
+101419,11530,63,M,24.40504361,Plastic Surgery,Admission,84,1,11896,Plastic Surgery,P00008417,Wide excision of skin lesion,general,D00001874,104,N,N,TF5,Wednesday,5,October,200,142
+103992,11530,63,M,24.40504361,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00005868,Free flap transfer,general,D00001874,503,Y,N,TF2,Monday,3,November,500,298
+111363,11530,63,M,24.40504361,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00007099,Skin graft,general,D00001874,E6,Y,N,MDTF1,Monday,3,January,200,77
+109070,11547,79,M,24.18100447,Urology,Admission,121,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),spinal,D00014220,504,N,N,TF2,Friday,3,January,100,53
+114639,11547,79,M,24.18100447,Urology,Admission,121,1,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),spinal,D00003602,103,Y,N,8A,Thursday,2,February,100,66
+166593,11547,79,M,24.18100447,Urology,Admission,121,2,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00003602,104,Y,N,TF1,Friday,4,February,100,32
+157027,11553,52,F,21.28711322,Obstetrics & Gynecology,Admission,56,3,29033,Obstetrics & Gynecology,P00008135,Total hysterectomy ( laparotomy ) Salpingectomy ( bilateral / laparotomy ) ,general,D00014097,102,N,N,TF1,Wednesday,1,December,200,106
+208984,11553,52,F,21.28711322,Ophthalmology,Admission,81,3,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) Endolaser on chorioretinal lesion ( right ) Intravitreal gas injection ( right ) ",MAC,D00008871,501,N,N,TF4,Thursday,1,January,130,52
+286263,11556,73,F,20.92462374,Ophthalmology,Day,81,2,6223,Ophthalmology,P00008391,Repair of entropion ( RLL / retractor repair and lateral tarsal strip procudure ) ,MAC,D00022512,204,N,N,TF2,Wednesday,4,July,130,57
+245739,11614,67,F,21.71984106,General Surgery,Admission,51,2,100617,General Surgery,P00006887,Cystectomy,general,D00022670,108,N,N,TF1,Monday,2,September,300,281
+174496,11667,71,F,21.90758246,General Surgery,Admission,45,2,29458,General Surgery,P00004070,"Ligation and stripping of varicose vein, great and small saphenous vein",spinal,D00010407,208,N,N,TF2,Monday,3,April,200,116
+193550,11683,78,M,25.94404796,Ophthalmology,Day,81,1,30791,Ophthalmology,P00005407,,MAC,D00008868,501,N,N,TF1,Tuesday,1,February,100,32
+193551,11683,78,M,25.94404796,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008868,501,Y,N,8A,Tuesday,2,February,100,39
+188108,11703,74,M,25.50030203,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Wednesday,3,August,100,49
+188109,11703,74,M,25.50030203,Ophthalmology,Day,81,3,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF3,Wednesday,4,September,100,35
+117100,11708,85,F,23.70259726,Orthopedics,Admission,41,2,28690,Orthopedics,P00005946,Release of carpal tunnel ( bilateral ) ,local,D00007851,106,N,N,etc,Saturday,2,February,30,68
+207534,11724,79,M,27.77165318,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008542,502,N,N,TF1,Wednesday,2,January,100,55
+217085,11724,79,M,27.77165318,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00007912,Descemet???membrane endothelial keratoplasty ( left ) ,general,D00008542,502,Y,N,TF4,Wednesday,2,March,130,121
+102865,11730,85,F,24.98737051,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00005407,,MAC,D00008683,502,N,N,TF9,Monday,3,January,100,33
+102867,11730,85,F,24.98737051,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00005407,,MAC,D00008683,501,Y,N,TF7,Monday,5,January,100,46
+243912,11742,79,F,25.6311675,Cardiovascular Thoracic Surgery,Admission,RICU,2,6248,Cardiovascular Thoracic Surgery,P00006450,Repair of heart valve ( mitral valve / valve ) ,general,D00009702,202,N,N,TF1,Tuesday,4,August,400,246
+105072,11774,53,M,24.92647014,Otolaryngology,Admission,102,1,6194,Otolaryngology,P00005271,Partial glossectomy ( left ) ,general,D00001164,204,N,N,8A,Thursday,1,December,800,467
+137876,11774,53,M,24.92647014,Otolaryngology,Admission,102,3,6194,Otolaryngology,P00004444,"Modified radical neck dissection (MRND), type 2 ( right ) ",general,D00001164,504,Y,N,TF2,Thursday,3,July,400,231
+183636,11792,87,F,25.09561044,Orthopedics,Admission,44,2,29111,Orthopedics,P00008422,OLIF (oblique lumbar interbody fusion) ( left ) ,general,D00013283,106,N,N,8A,Thursday,4,June,300,192
+84352,11796,64,F,21.60907484,Ophthalmology,Admission,81,2,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",general,D00008862,501,N,N,TF1,Wednesday,3,July,130,67
+130809,11796,64,F,21.60907484,Ophthalmology,Admission,81,2,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008800,501,Y,N,8A,Wednesday,3,July,130,81
+271549,11846,82,F,21.36623734,Ophthalmology,Day,81,3,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,4,March,100,36
+138548,11851,88,F,25.17685915,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( left ) ",general,D00008800,501,N,N,8A,Monday,5,September,130,86
+170547,11851,88,F,25.17685915,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008800,501,Y,N,8A,Monday,4,March,130,85
+116007,11868,68,F,24.23280852,Plastic Surgery,Admission,65,1,11896,Plastic Surgery,P00000843,Breast tissue expander insertion ( left ) ,general,D00003573,504,N,N,MD,Friday,2,February,300,265
+157570,11868,68,F,24.23280852,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00007679,Breast implant insertion ( right ) ,general,D00002196,504,Y,N,8A,Thursday,2,December,100,82
+217076,11876,64,M,22.88991157,General Surgery,Admission,45,2,6036,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,108,N,N,8A,Tuesday,1,March,100,73
+98565,11883,59,F,23.99133298,Orthopedics,Admission,44,2,28690,Orthopedics,P00000288,"Arthrodesis (fusion), ankle joint ( right ) ",spinal,D00012811,108,N,N,TF2,Wednesday,2,October,200,170
+150579,11883,59,F,23.99133298,Orthopedics,Admission,44,2,29474,Orthopedics,P00005976,Release of cubital tunnel ( right ) ,general,D00007868,110,Y,N,TF2,Monday,4,October,130,87
+183454,11883,59,F,23.99133298,Orthopedics,Admission,41,2,29475,Orthopedics,P00001603,Darrach operation (Excision of distal ulna) ( left ) ,general,D00019271,105,Y,N,TF1,Monday,5,June,200,211
+189349,11940,86,F,16.64684899,Orthopedics,Admission,42,2,100646,Orthopedics,P00003801,"Bipolar hemiarthroplasty, hip ( right ) ",spinal,D00019351,108,N,N,TF1,Friday,5,July,130,136
+139692,11972,74,F,22.82932843,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF5,Monday,2,August,100,37
+118102,11992,81,M,16.6569894,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00004444,Radical neck dissection (RND) ( left ) ,general,D00001164,504,N,N,MD,Tuesday,2,March,300,235
+154512,11996,78,M,22.8118602,Urology,Admission,72,2,7391,Pediatric Urology,P00007615,Transurethral prostatectomy,general,D00014274,7,N,N,TF3,Tuesday,5,December,200,166
+226995,12019,73,M,26.23301403,Neurosurgery,Admission,45,2,12506,Neurosurgery,P00008422,OLIF (oblique lumbar interbody fusion) ( left ) ,general,D00013316,207,N,N,TF2,Thursday,2,May,300,376
+186864,12052,80,F,32.28672101,Orthopedics,Admission,81,2,29115,Orthopedics,P00007937,RTSA (Reverse total shoulder arthroplasty) ( right ) ,general,D00021745,105,N,N,8A,Wednesday,3,July,200,115
+167413,12055,77,M,28.36531606,General Surgery,Admission,45,3,29080,General Surgery,P00004070,"Ligation and stripping of varicose vein, small saphenous vein ( right ) ",spinal,D00006385,208,N,N,8A,Monday,3,February,130,108
+116028,12105,64,M,23.61617604,Ophthalmology,Admission,81,2,6223,Ophthalmology,P00003805,Intraocular lens scleral fixation ( right ) ,local,D00008678,501,N,N,TF7,Wednesday,4,February,130,135
+124115,12105,64,M,23.61617604,Ophthalmology,Admission,81,2,30744,Ophthalmology,P00007816,"Vitrectomy, pars planar (23G)",general,D00008678,501,Y,N,etc,Friday,1,April,130,152
+256428,12149,93,F,27.37135828,Orthopedics,Admission,44,2,100647,Orthopedics,P00004777,"Open reduction and internal fixation, femur ( right ) ",general,D00013836,108,N,N,etc,Sunday,4,November,130,176
+168569,12150,85,M,25.16069789,Ophthalmology,Admission,81,3,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar ( right ) ",general,D00008754,501,Y,N,TF3,Thursday,4,February,130,76
+290938,12162,45,M,19.90445051,Plastic Surgery,Admission,81,2,11896,Plastic Surgery,P00004458,Muscle flap,general,D00020646,503,N,N,8A,Tuesday,4,July,400,277
+224636,12186,85,F,23.70042757,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008796,501,N,N,TF4,Tuesday,2,September,100,26
+224637,12186,85,F,23.70042757,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008796,501,Y,N,TF4,Tuesday,3,September,100,26
+225593,12219,67,F,18.28566732,Neurosurgery,Admission,55,2,99429,Neurosurgery,P00001315,"Coil embolization of aneurysm, neuroendovascular",general,D00010268,ANGIO,N,N,8A,Tuesday,4,April,300,119
+193119,12220,63,F,23.05813446,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00006954,Simple brow lift ( bilateral ) ,local,D00008284,OPTO2,N,N,etc,Tuesday,3,October,100,95
+126488,12268,86,M,28.031178,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008879,502,N,N,TF1,Tuesday,1,July,100,34
+177511,12276,62,M,22.76230937,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,general,D00008822,501,N,N,TF5,Wednesday,3,June,100,86
+184637,12276,62,M,22.76230937,Ophthalmology,Admission,81,2,30968,Ophthalmology,P00007816,"PE (Phacoemulsification), small incision ( right ) Vitrectomy, pars planar ( right ) Intraocular lens scleral fixation ( right ) ",MAC,D00008676,501,Y,N,8A,Tuesday,3,October,130,110
+60225,12284,68,M,25.55932916,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002172,Endoscopic sinus surgery ( bilateral ) ,general,D00010688,204,N,N,TF4,Wednesday,5,January,200,225
+102277,12289,49,F,23.60171203,General Surgery,Admission,NUGW2,2,9885,General Surgery,P00002588,Excision of multiple benign breast mass ( right ) ,general,D00022628,106,N,N,TF4,Friday,5,November,50,70
+107117,12289,49,F,23.60171203,General Surgery,Admission,NUGW2,1,9885,General Surgery,P00007872,Wide excision of other site,general,D00002233,105,Y,N,TF3,Friday,1,December,120,63
+233130,12295,79,F,26.0623483,Ophthalmology,Day,81,1,6223,Ophthalmology,P00005407,,local,D00008676,502,N,N,TF9,Thursday,2,October,100,41
+168461,12309,88,F,26.63259753,Orthopedics,Admission,41,2,29110,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,110,N,N,8A,Thursday,1,March,200,132
+164198,12314,74,M,23.32281284,Otolaryngology,Admission,102,3,5956,Otolaryngology,P00003986,Laryngomicrosurgery (LMS) ( bilateral ) ,general,D00017819,504,N,N,TF1,Monday,2,February,100,76
+211851,12348,82,M,24.1237028,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014269,103,N,N,TF4,Monday,5,June,100,92
+70776,12380,75,M,21.68681052,General Surgery,Admission,54,2,28651,General Surgery,P00006344,Repair of inguinal hernia ( right / open / indirect ) ,spinal,D00011591,105,N,N,etc,Tuesday,3,March,100,62
+113379,12407,97,F,15.45778835,Orthopedics,Admission,44,2,29110,Orthopedics,P00001038,"Closed reduction of fracture, femur ( left ) ",spinal,D00019351,105,N,N,TF4,Tuesday,4,January,130,88
+73797,12414,71,F,20.10938677,Orthopedics,Admission,44,2,28687,Orthopedics,P00001436,"Corrective osteotomy, phalanges of hand ( 4th ) ",general,D00012949,110,N,N,8A,Monday,2,April,130,138
+271377,12437,62,F,22.41250155,General Surgery,Admission,NUGW2,2,6036,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00003725,106,N,N,TF3,Friday,2,March,100,41
+110449,12468,83,M,26.56548107,Internal Medicine,Admission,85,2,30784,General Surgery,P00000560,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014098,GSOOR,N,N,etc,Wednesday,5,January,100,76
+229882,12468,83,M,26.56548107,Internal Medicine,Admission,85,2,30784,General Surgery,P00006664,Revision of aneurysm of arteriovenous fistula,local,D00014097,OPTO1,N,N,etc,Thursday,1,June,200,85
+68168,12483,81,F,24.99038831,Cardiovascular Thoracic Surgery,Admission,RICU,3,6039,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve ( mitral valve / tissue valve ) Cardiac redo operationCardioplegia,general,D00009704,202,N,N,8A,Friday,4,March,500,476
+137907,12561,70,F,25.13179314,Orthopedics,Admission,41,2,29113,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,105,N,N,8A,Wednesday,3,July,230,141
+138496,12561,70,F,25.13179314,Orthopedics,Admission,41,2,29113,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012919,105,Y,N,8A,Wednesday,4,July,230,161
+262976,12585,85,F,20.74120486,Urology,Admission,72,3,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,103,N,N,TF4,Thursday,4,January,100,33
+268988,12585,85,F,20.74120486,Urology,Admission,72,3,6019,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00002593,104,Y,N,MDTF3,Tuesday,5,March,100,31
+182358,12634,84,M,25.85664653,Urology,Admission,121,3,6087,Urology,P00007658,TUR-B (Transurethral resection of bladder tumor),general,D00014220,104,N,N,TF1,Thursday,3,June,100,48
+250998,12696,73,F,20.56041705,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002172,Endoscopic anterior sinus surgery ( left ) ,general,D00011300,204,N,N,TF1,Tuesday,3,October,100,55
+114466,12703,43,F,24.11732518,Obstetrics & Gynecology,Admission,35,3,29029,Obstetrics & Gynecology,P00004448,Modified Shirodkar operation,spinal,D00021302,D107,N,N,TF3,Monday,5,January,100,51
+171547,12709,84,M,23.29643938,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,N,N,TF2,Monday,5,September,100,37
+171548,12709,84,M,23.29643938,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008885,502,Y,N,TF1,Monday,4,September,100,37
+123484,12720,71,F,24.32956654,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00013180,502,N,N,TF5,Wednesday,1,February,100,30
+123487,12720,71,F,24.32956654,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00013180,502,Y,N,TF5,Wednesday,2,February,100,36
+99014,12731,63,M,19.84826446,General Surgery,Admission,65,2,6036,General Surgery,P00001885,"Distal pancreatectomyTumorectomy of liverCholecystectomyIntraoperative radiofrequency ablation, liver",general,D00001542,107,N,N,TF1,Friday,2,October,300,265
+122928,12747,86,F,22.88854267,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00007881,Scar revision,local,D00018244,OPTO2,N,N,etc,Wednesday,1,April,100,52
+230565,12771,78,F,27.93424491,General Surgery,Admission,NUGW2,3,9885,General Surgery,P00000001,Axillary lymph node dissection ( left ) ,general,D00002196,110,N,N,8A,Friday,4,May,50,63
+233124,12787,77,F,29.35622493,Orthopedics,Admission,41,1,100651,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,110,N,N,8A,Wednesday,3,June,200,145
+86825,12793,75,M,25.40583665,Cardiovascular Thoracic Surgery,Admission,RICU,2,5891,Cardiovascular Thoracic Surgery,P00000232,Off pump CABG (coronary artery bypass graft) surgery (two or more vessel),general,D00009570,202,N,N,8A,Tuesday,2,July,500,426
+191126,12807,68,M,24.19338899,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00006450,Repair of heart valve,general,D00009717,203,N,N,8A,Wednesday,2,August,600,389
+174294,12811,86,F,24.39122375,Ophthalmology,Admission,81,2,30791,Ophthalmology,P00004971,"Excision of eyelid lesion, malignant <50% ( RUL ) Reconstruction of eyelid with skin flap ( right ) ",general,D00001886,204,N,N,TF3,Wednesday,4,April,130,108
+79390,12819,81,F,26.42003303,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008807,501,N,N,TF5,Monday,1,June,100,37
+81315,12825,75,M,27.75110862,Cardiovascular Thoracic Surgery,Admission,RICU,3,5891,Cardiovascular Thoracic Surgery,P00000232,Aortocoronary bypass of two or more coronary artery,general,D00009570,202,N,N,8A,Thursday,5,May,500,510
+66971,12834,76,M,21.50385474,Urology,Admission,72,2,15127,Urology,P00003239,HoLEP (Holmium laser enucleation of prostate),spinal,D00014270,103,N,N,TF4,Monday,5,July,100,87
+232712,12927,71,F,23.35283033,Orthopedics,Admission,44,1,29477,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,108,N,N,TF2,Tuesday,3,June,200,137
+228274,12956,63,F,23.8494625,Cardiovascular Thoracic Surgery,Admission,81,2,6084,Cardiovascular Thoracic Surgery,P00007837,VATS (video-assisted thoracic surgery) RLLobectomy,general,D00011002,103,N,N,8A,Thursday,2,May,230,133
+226237,12964,76,F,23.72721844,General Surgery,Admission,54,1,100618,General Surgery,P00006766,Extended right hemicolectomy ( laparoscopic / with lymph node dissection ) ,general,D00001416,105,N,N,TF5,Thursday,4,April,300,183
+99974,12971,73,F,30.62660885,Neurosurgery,Admission,55,2,30952,Neurosurgery,P00001315,Coil embolization of cerebral aneurysm,general,D00010133,ANGIO,N,N,8A30,Tuesday,4,October,400,105
+166876,12981,78,F,23.24661811,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00005759,Atticoantrostomy ( right ) ,general,D00009399,503,N,N,8A,Friday,4,March,200,232
+204428,12981,78,F,23.24661811,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00007664,Atticoantrostomy ( right ) Partial ossicular replacement prosthesis ( right ) ,general,D00009399,503,Y,N,8A,Friday,3,December,200,148
+281223,12981,78,F,23.24661811,Otolaryngology,Day,81,2,6154,Otolaryngology,P00007664,Type I tympanoplasty ( right / endaural ) ,MAC,D00009486,503,Y,N,TF3,Friday,2,June,200,100
+129814,12999,80,M,23.70355461,Urology,Admission,84,2,6019,Urology,P00005580,"Prostatectomy, radical ( robotic ) ",general,D00002512,E5,N,N,TF1,Wednesday,1,June,300,137
+236002,12999,80,M,23.70355461,Urology,Admission,72,2,15127,Urology,P00003316,Implantation of artifical urinary sphincter,general,D00017693,103,Y,N,TF3,Monday,2,November,300,117
+82277,13030,85,F,24.48527778,Orthopedics,Admission,42,2,29111,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,105,N,N,TF1,Monday,2,June,200,141
+173576,13049,83,F,23.62584464,Orthopedics,Admission,42,2,29475,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012934,105,N,N,8A,Thursday,2,April,130,137
+79001,13065,74,F,23.03467941,Ophthalmology,Day,81,2,6223,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF1,Tuesday,3,April,100,29
+98295,13078,77,F,21.87045477,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008857,501,N,N,TF4,Thursday,3,November,100,31
+189038,13099,84,M,15.52115078,General Surgery,Admission,SICU2,2,29457,General Surgery,P00006766,"Right hemicolectomy ( open / with lymph node dissection ) Mass excision, peritoneal tissue",general,D00011575,108,N,N,MD,Tuesday,5,July,300,340
+246516,13101,72,F,24.52048357,Ophthalmology,Admission,81,1,30791,Ophthalmology,P00007816,"Vitrectomy, pars planar (25G)",general,D00008797,501,N,N,TF1,Monday,3,December,130,46
+157696,13115,79,M,21.65701736,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00002105,"Transnasal, transoral extirpation of nasopharyngeal malignant tumor",general,D00001278,204,N,N,TF2,Thursday,2,December,200,61
+266747,13139,47,F,19.50589838,Plastic Surgery,Admission,65,2,11896,Plastic Surgery,P00004261,Lymphovenous anastomosis for correction of lymphedema of limb,general,D00010466,503,N,N,8A,Friday,1,February,400,276
+157907,13148,90,F,23.92390012,Cardiovascular Thoracic Surgery,Admission,RICU,3,6248,Cardiovascular Thoracic Surgery,P00006450,Replacement of heart valve ( aortic valve / tissue valve ) ,general,D00009712,202,N,N,TF1,Monday,2,December,500,263
+220672,13155,67,M,22.40067625,Orthopedics,Admission,44,3,29112,Orthopedics,P00003801,"Intramedullary nailing, femur ( left ) ",general,D00019350,110,N,Y,TF6,Tuesday,4,March,130,96
+209082,13158,86,M,27.86681214,General Surgery,Admission,65,3,29465,General Surgery,P00002830,Extended right hemicolectomy ( laparoscopic / with lymph node dissection ) ,general,D00001416,105,N,N,8A,Thursday,5,December,300,231
+71136,13174,72,M,18.70136437,Ophthalmology,Day,81,3,30744,Ophthalmology,P00005407,,MAC,D00008676,501,N,N,etc,Monday,5,April,100,44
+71137,13174,72,M,18.70136437,Ophthalmology,Day,81,3,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,8A,Wednesday,2,May,101,111
+127765,13174,72,M,18.70136437,General Surgery,Admission,84,2,28654,General Surgery,P00000562,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00021491,OPTO1,N,Y,etc,Tuesday,5,April,100,104
+136561,13174,72,M,18.70136437,Internal Medicine,Admission,MICU,4,5917,Otolaryngology,P00007550,Fenestration of trachea,general,D00010598,204,N,N,TF1,Thursday,1,July,100,89
+150246,13190,71,F,25.37485582,Otolaryngology,Admission,102,2,6194,Otolaryngology,P00003988,Laryngomicrosurgery (LMS) with laser ( bilateral ) ,general,D00003527,504,N,N,TF2,Monday,5,October,100,101
+69314,13196,89,F,23.32827924,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,local,D00008895,502,N,N,8A,Monday,1,April,100,40
+205107,13196,89,F,23.32827924,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,local,D00008929,502,Y,N,8A,Monday,1,February,100,46
+75608,13206,69,F,21.69162699,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,TF2,Thursday,2,August,100,34
+75610,13206,69,F,21.69162699,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,TF4,Thursday,3,August,101,40
+263083,13245,52,F,20.91074265,Obstetrics & Gynecology,Admission,35,2,14171,Obstetrics & Gynecology,P00008135,Total hysterectomy ( laparotomy ) Salpingo-oophorectomy ( bilateral / laparotomy ) Pelvic adhesiolysis ( laparotomy ) ,general,D00004294,102,N,N,TF2,Monday,2,January,200,124
+76774,13253,76,F,26.22735774,Orthopedics,Admission,42,1,29117,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00012919,105,N,N,8A,Monday,5,April,200,170
+88200,13261,90,M,24.94995597,Orthopedics,Admission,41,2,29112,Orthopedics,P00007367,"Tenosynovectomy, hand ( left ) ",local,D00013413,110,N,N,TF1,Saturday,4,July,100,72
+185404,13292,62,F,20.21696252,General Surgery,Admission,121,2,6036,General Surgery,P00003920,Laparoscopic cholecystectomy,general,D00011955,110,N,N,TF1,Friday,1,July,100,112
+153879,13293,88,F,20.26347871,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00002601,Wide excision of skin lesion,local,D00017618,OPTO2,N,N,etc,Thursday,3,November,100,45
+173831,13293,88,F,20.26347871,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,N,N,8A,Tuesday,1,April,100,48
+173832,13293,88,F,20.26347871,Ophthalmology,Day,81,2,30791,Ophthalmology,P00005407,,MAC,D00008676,502,Y,N,8A,Tuesday,3,April,100,47
+100639,13320,77,F,24.1617357,Orthopedics,Admission,44,1,29117,Orthopedics,P00004787,"Open reduction and internal fixation, radius ( right ) ",general,D00019028,105,N,N,MD,Monday,4,October,300,175
+260609,13326,72,F,24.62753694,Orthopedics,Admission,42,2,29475,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( right ) ,spinal,D00013597,106,N,N,TF1,Tuesday,4,December,200,143
+260800,13326,72,F,24.62753694,Orthopedics,Admission,42,2,29475,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012934,108,Y,N,TF2,Tuesday,5,December,200,145
+174728,13333,75,F,30.54380794,Internal Medicine,Admission,85,2,100873,General Surgery,P00005688,"AVF (Arteriovenous fistula), brachial-cephalic",local,D00014098,OPTO1,N,N,etc,Tuesday,4,April,100,99
+218047,13333,75,F,30.54380794,General Surgery,Day,81,2,6216,General Surgery,P00000562,"AVG (Arteriovenous graft), other",local,D00014098,OPTO1,Y,N,etc,Thursday,2,March,130,90
+292345,13356,75,F,22.69778551,Orthopedics,Admission,44,2,100652,Orthopedics,P00007444,TKRA (total knee replacement arthroplasty) ( left ) ,spinal,D00012919,108,Y,N,TF1,Tuesday,2,August,200,115
+123578,13361,64,F,22.6882034,Ophthalmology,Day,81,2,30744,Ophthalmology,P00005407,,MAC,D00008361,502,N,N,TF2,Wednesday,3,October,100,34
+127342,13361,64,F,22.6882034,Plastic Surgery,Outpatient,,2,11896,Plastic Surgery,P00007919,"Blepharoplasty, lower eyelid ( bilateral ) ",local,D00012726,OPTO2,N,N,etc,Tuesday,5,April,100,110
