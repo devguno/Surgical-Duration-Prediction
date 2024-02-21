@@ -7,6 +7,7 @@
 
 # venv folder
 surgical/
+catboost_info/
 
 #csv file
 *.csv
